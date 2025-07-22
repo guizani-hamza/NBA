@@ -1,0 +1,535 @@
+player_id,nom,équipe,position,taille,poids,expérience (années),âge,équipe_abrégée
+1630173,Precious Achiuwa,NYC Knicks,Pivot,203.0,110,4,26,NYC
+203500,Steven Adams,HOU Rockets,Pivot,211.0,120,10,32,HOU
+1628389,Bam Adebayo,MIA Heat,Pivot,206.0,115,7,28,MIA
+1630534,Ochai Agbaji,TOR Raptors,Arrière,196.0,97,2,25,TOR
+1630583,Santi Aldama,MEM Grizzlies,Ailier fort,213.0,97,3,24,MEM
+1641725,Trey Alexander,DEN Nuggets,Arrière,193.0,83,0,22,DEN
+1629638,Nickeil Alexander Walker,MIN Timberwolves,Arrière,196.0,92,5,27,MIN
+1628960,Grayson Allen,PHX Suns,Arrière,193.0,89,6,30,PHX
+1628386,Jarrett Allen,CLE Cavaliers,Pivot,206.0,110,7,27,CLE
+1630631,Jose Alvarado,NOP Pelicans,Meneur,183.0,81,3,27,NOP
+203937,Kyle Anderson,MIA Heat,Ailier fort,206.0,104,10,32,MIA
+203507,Giannis Antetokounmpo,MIL Bucks,Ailier fort,211.0,110,11,31,MIL
+1630175,Cole Anthony,MEM Grizzlies,Meneur,188.0,83,4,25,MEM
+1628384,Og Anunoby,NYC Knicks,Ailier fort,201.0,108,7,28,NYC
+1642379,Taran Armstrong,GSW Warriors,Arrière,196.0,86,0,23,GSW
+1630166,Deni Avdija,POR Trail Blazers,Ailier,206.0,108,4,24,POR
+1629028,Deandre Ayton,POR Trail Blazers,Pivot,213.0,114,6,27,POR
+1628963,Marvin Bagley,MEM Grizzlies,Pivot,208.0,106,6,26,MEM
+1631116,Patrick Baldwin Jr,LAC Clippers,Ailier,206.0,99,2,23,LAC
+1630163,Lamelo Ball,CHA Hornets,Meneur,201.0,81,4,24,CHA
+1628366,Lonzo Ball,CHI Bulls,Meneur,198.0,86,5,28,CHI
+1631094,Paolo Banchero,ORL Magic,Ailier fort,208.0,113,2,23,ORL
+1630217,Desmond Bane,ORL Magic,Arrière,196.0,97,4,27,ORL
+1630625,Dalano Banton,POR Trail Blazers,Meneur,203.0,92,3,26,POR
+1631230,Dominick Barlow,ATL Hawks,Ailier,203.0,97,2,22,ATL
+203084,Harrison Barnes,SAS Spurs,Ailier fort,203.0,102,12,33,SAS
+1630567,Scottie Barnes,TOR Raptors,Ailier fort,201.0,107,3,24,TOR
+1629628,Rj Barrett,TOR Raptors,Ailier,198.0,97,5,25,TOR
+1629646,Charles Bassey,SAS Spurs,Pivot,208.0,104,3,25,SAS
+1641734,Emoni Bates,CLE Cavaliers,Ailier,203.0,91,1,21,CLE
+1642419,Jamison Battle,TOR Raptors,Ailier,201.0,99,0,24,TOR
+201587,Nicolas Batum,LAC Clippers,Ailier fort,203.0,104,16,37,LAC
+1641878,Damion Baugh,CHA Hornets,Arrière,193.0,87,0,25,CHA
+203078,Bradley Beal,PHX Suns,Arrière,193.0,93,12,32,PHX
+1627736,Malik Beasley,DET Pistons,Arrière,193.0,84,8,29,DET
+1630699,Marjon Beauchamp,NYC Knicks,Ailier,201.0,90,2,25,NYC
+1641736,Reece Beekman,BKN Nets,Meneur,190.0,86,0,24,BKN
+1630180,Saddiq Bey,WAS Wizards,Ailier fort,201.0,97,4,26,WAS
+1629048,Goga Bitadze,ORL Magic,Pivot,208.0,113,5,26,ORL
+202687,Bismack Biyombo,SAS Spurs,Pivot,203.0,115,13,33,SAS
+1641710,Anthony Black,ORL Magic,Meneur,201.0,90,1,21,ORL
+203992,Bogdan Bogdanovic,LAC Clippers,Arrière,196.0,102,7,33,LAC
+1629626,Bol Bol,PHX Suns,Ailier fort,221.0,99,5,26,PHX
+1641737,Adem Bona,PHI 76ers,Pivot,208.0,106,0,22,PHI
+1626164,Devin Booker,PHX Suns,Arrière,198.0,93,9,29,PHX
+1630527,Brandon Boston Jr,NOP Pelicans,Arrière,198.0,85,3,24,NOP
+1628449,Chris Boucher,TOR Raptors,Ailier fort,206.0,90,7,32,TOR
+1631123,Jamaree Bouyea,MIL Bucks,Meneur,188.0,81,2,26,MIL
+1628396,Tony Bradley,IND Pacers,Pivot,211.0,112,6,27,IND
+1631103,Malaki Branham,SAS Spurs,Arrière,193.0,81,2,22,SAS
+1631128,Christian Braun,DEN Nuggets,Arrière,198.0,99,2,24,DEN
+1641779,Jalen Bridges,PHX Suns,Ailier,203.0,102,0,24,PHX
+1628969,Mikal Bridges,NYC Knicks,Ailier,198.0,94,6,29,NYC
+1628970,Miles Bridges,CHA Hornets,Ailier fort,201.0,102,5,27,CHA
+1627763,Malcolm Brogdon,WAS Wizards,Meneur,193.0,103,8,33,WAS
+1628415,Dillon Brooks,HOU Rockets,Ailier,198.0,102,7,29,HOU
+1631232,Keion Brooks Jr,NOP Pelicans,Ailier,201.0,95,0,25,NOP
+1628971,Bruce Brown,NOP Pelicans,Meneur,193.0,91,6,29,NOP
+1627759,Jaylen Brown,BOS Celtics,Ailier,198.0,101,8,29,BOS
+1641738,Kobe Brown,LAC Clippers,Ailier fort,201.0,113,1,25,LAC
+1628973,Jalen Brunson,NYC Knicks,Meneur,188.0,86,6,29,NYC
+1628418,Thomas Bryant,IND Pacers,Pivot,208.0,112,7,28,IND
+1641723,Kobe Bufkin,ATL Hawks,Arrière,193.0,88,1,22,ATL
+202692,Alec Burks,MIA Heat,Arrière,196.0,97,13,34,MIA
+1630215,Jared Butler,PHI 76ers,Meneur,190.0,87,3,25,PHI
+202710,Jimmy Butler,GSW Warriors,Ailier fort,201.0,104,13,36,GSW
+1641824,Matas Buzelis,CHI Bulls,Ailier,208.0,94,0,21,CHI
+1631288,Jamal Cain,NOP Pelicans,Ailier,198.0,86,2,26,NOP
+203484,Kentavious Caldwell Pope,MEM Grizzlies,Arrière,196.0,92,11,32,MEM
+1641739,Toumani Camara,POR Trail Blazers,Ailier fort,201.0,103,1,25,POR
+203991,Clint Capela,ATL Hawks,Pivot,208.0,116,10,31,ATL
+1642382,Branden Carlson,OKC Thunder,Pivot,213.0,99,0,26,OKC
+1642267,Bub Carrington,WAS Wizards,Meneur,193.0,86,0,20,WAS
+1642269,Devin Carter,SAC Kings,Meneur,188.0,88,0,23,SAC
+1628975,Jevon Carter,CHI Bulls,Meneur,185.0,90,6,30,CHI
+1628976,Wendell Carter Jr,ORL Magic,Pivot,208.0,122,6,26,ORL
+1627936,Alex Caruso,OKC Thunder,Arrière,196.0,84,7,31,OKC
+1642264,Stephon Castle,SAS Spurs,Meneur,198.0,97,0,21,SAS
+1630658,Colin Castleton,TOR Raptors,Pivot,208.0,113,1,25,TOR
+1630577,Julian Champagnie,SAS Spurs,Ailier,201.0,98,2,24,SAS
+1630551,Justin Champagnie,WAS Wizards,Ailier,198.0,93,3,24,WAS
+1642279,Ulrich Chomche,TOR Raptors,Ailier fort,211.0,106,0,20,TOR
+1642353,Cam Christie,LAC Clippers,Arrière,198.0,86,0,20,LAC
+1631108,Max Christie,DAL Mavericks,Arrière,196.0,86,2,22,DAL
+1630528,Josh Christopher,MIA Heat,Arrière,193.0,97,2,24,MIA
+1631321,Sidy Cissoko,POR Trail Blazers,Ailier,198.0,90,1,21,POR
+1641740,Jaylen Clark,MIN Timberwolves,Arrière,193.0,92,0,24,MIN
+1629634,Brandon Clarke,MEM Grizzlies,Ailier fort,203.0,97,5,29,MEM
+203903,Jordan Clarkson,UTA Jazz,Arrière,190.0,87,10,33,UTA
+1629651,Nic Claxton,BKN Nets,Pivot,211.0,97,5,26,BKN
+1642270,Donovan Clingan,POR Trail Blazers,Pivot,218.0,127,0,21,POR
+1641730,Noah Clowney,BKN Nets,Ailier fort,206.0,95,1,21,BKN
+1629599,Amir Coffey,LAC Clippers,Arrière,201.0,95,5,28,LAC
+1642268,Isaiah Collier,UTA Jazz,Meneur,190.0,95,0,21,UTA
+1628381,John Collins,UTA Jazz,Ailier fort,206.0,102,7,28,UTA
+1628380,Zach Collins,CHI Bulls,Pivot,211.0,113,6,28,CHI
+201144,Mike Conley,MIN Timberwolves,Meneur,183.0,79,17,38,MIN
+1626192,Pat Connaughton,MIL Bucks,Arrière,196.0,94,9,32,MIL
+1641731,Bilal Coulibaly,WAS Wizards,Ailier,203.0,88,1,21,WAS
+1641741,Ricky Council Iv,PHI 76ers,Ailier,198.0,93,1,24,PHI
+1628470,Torrey Craig,BOS Celtics,Ailier,196.0,100,7,35,BOS
+1642384,Isaiah Crawford,SAC Kings,Ailier,198.0,99,0,24,SAC
+203109,Jae Crowder,SAC Kings,Ailier fort,198.0,106,12,35,SAC
+1630595,Cade Cunningham,DET Pistons,Meneur,198.0,99,3,24,DET
+203552,Seth Curry,CHA Hornets,Arrière,185.0,83,10,35,CHA
+201939,Stephen Curry,GSW Warriors,Meneur,188.0,83,15,37,GSW
+1642359,Pacome Dadiet,NYC Knicks,Arrière,203.0,95,0,20,NYC
+1630700,Dyson Daniels,ATL Hawks,Arrière,201.0,90,2,22,ATL
+1642368,N Faly Dante,HOU Rockets,Pivot,211.0,104,0,24,HOU
+203076,Anthony Davis,DAL Mavericks,Pivot,208.0,114,12,32,DAL
+1629056,Terence Davis,SAC Kings,Arrière,193.0,91,4,28,SAC
+1631120,Jd Davison,BOS Celtics,Meneur,185.0,88,2,23,BOS
+201942,Demar Derozan,SAC Kings,Ailier,198.0,99,15,36,SAC
+1642484,Rayj Dennis,IND Pacers,Meneur,188.0,81,0,24,IND
+1628978,Donte Divincenzo,MIN Timberwolves,Arrière,193.0,92,6,28,MIN
+1631217,Moussa Diabate,CHA Hornets,Pivot,206.0,95,2,23,CHA
+1641711,Gradey Dick,TOR Raptors,Arrière,198.0,90,1,22,TOR
+1631172,Ousmane Dieng,OKC Thunder,Pivot,206.0,83,2,22,OKC
+1642265,Rob Dillingham,MIN Timberwolves,Meneur,190.0,79,0,20,MIN
+203915,Spencer Dinwiddie,DAL Mavericks,Meneur,196.0,97,10,32,DAL
+1629029,Luka Doncic,LAL Lakers,Meneur,198.0,104,6,26,LAL
+1629652,Luguentz Dort,OKC Thunder,Ailier,193.0,99,5,26,OKC
+1630245,Ayo Dosunmu,CHI Bulls,Arrière,196.0,90,3,25,CHI
+1630288,Jeff Dowtin Jr,PHI 76ers,Meneur,190.0,80,3,28,PHI
+203083,Andre Drummond,PHI 76ers,Pivot,211.0,126,12,32,PHI
+1642505,Alex Ducas,OKC Thunder,Arrière,201.0,99,0,25,OKC
+1630561,David Duke Jr,SAS Spurs,Arrière,193.0,92,3,26,SAS
+1627739,Kris Dunn,LAC Clippers,Meneur,190.0,92,8,31,LAC
+1642346,Ryan Dunn,PHX Suns,Ailier,203.0,97,0,22,PHX
+201142,Kevin Durant,PHX Suns,Ailier fort,211.0,108,16,37,PHX
+1631105,Jalen Duren,DET Pistons,Pivot,208.0,113,2,22,DET
+1631106,Tari Eason,HOU Rockets,Ailier fort,203.0,97,2,24,HOU
+1641744,Zach Edey,MEM Grizzlies,Pivot,224.0,138,0,23,MEM
+1630162,Anthony Edwards,MIN Timberwolves,Arrière,193.0,102,4,24,MIN
+1642399,Jesse Edwards,MIN Timberwolves,Pivot,213.0,107,0,25,MIN
+1642348,Justin Edwards,PHI 76ers,Ailier,201.0,92,0,22,PHI
+1630556,Kessler Edwards,DAL Mavericks,Ailier,201.0,92,3,25,DAL
+1631165,Keon Ellis,SAC Kings,Arrière,193.0,79,2,25,SAC
+203954,Joel Embiid,PHI 76ers,Pivot,213.0,127,8,31,PHI
+1630623,Tyson Etienne,BKN Nets,Meneur,188.0,90,0,26,BKN
+1629234,Drew Eubanks,LAC Clippers,Pivot,208.0,111,6,28,LAC
+1641787,Tosan Evbuomwan,BKN Nets,Ailier,201.0,98,1,24,BKN
+203957,Dante Exum,DAL Mavericks,Meneur,196.0,97,7,30,DAL
+1642271,Kyle Filipowski,UTA Jazz,Pivot,211.0,113,0,22,UTA
+1627827,Dorian Finney Smith,LAL Lakers,Ailier fort,201.0,99,8,32,LAL
+1641745,Adam Flagler,OKC Thunder,Arrière,190.0,81,1,26,OKC
+1642280,Trentyn Flowers,LAC Clippers,Ailier,206.0,83,0,20,LAC
+1631323,Simone Fontecchio,DET Pistons,Ailier,201.0,94,2,30,DET
+1628368,De Aaron Fox,SAS Spurs,Meneur,190.0,83,7,28,SAS
+1642402,Enrique Freeman,IND Pacers,Ailier fort,201.0,99,0,25,IND
+1628365,Markelle Fultz,SAC Kings,Meneur,193.0,94,7,27,SAC
+1642277,Johnny Furphy,IND Pacers,Arrière,206.0,90,0,21,IND
+1629655,Daniel Gafford,DAL Mavericks,Pivot,208.0,120,5,27,DAL
+1629636,Darius Garland,CLE Cavaliers,Meneur,185.0,87,5,25,CLE
+1630568,Luka Garza,MIN Timberwolves,Pivot,208.0,110,3,27,MIN
+1641718,Keyonte George,UTA Jazz,Meneur,193.0,83,1,22,UTA
+1642273,Kyshawn George,WAS Wizards,Arrière,203.0,90,0,22,WAS
+202331,Paul George,PHI 76ers,Ailier fort,203.0,99,14,35,PHI
+201959,Taj Gibson,CHA Hornets,Pivot,206.0,105,15,40,CHA
+1630581,Josh Giddey,CHI Bulls,Meneur,203.0,97,3,23,CHI
+1628983,Shai Gilgeous Alexander,OKC Thunder,Meneur,198.0,88,6,27,OKC
+1630264,Anthony Gill,WAS Wizards,Ailier fort,203.0,104,4,33,WAS
+1631221,Collin Gillespie,PHX Suns,Meneur,185.0,88,1,26,PHX
+203497,Rudy Gobert,MIN Timberwolves,Pivot,216.0,117,11,33,MIN
+1630692,Jordan Goodwin,LAL Lakers,Meneur,196.0,97,3,27,LAL
+203932,Aaron Gordon,DEN Nuggets,Ailier fort,203.0,106,10,30,DEN
+201569,Eric Gordon,PHI 76ers,Arrière,190.0,97,16,37,PHI
+203924,Jerami Grant,POR Trail Blazers,Ailier fort,201.0,95,10,31,POR
+1631260,Aj Green,MIL Bucks,Arrière,193.0,86,2,26,MIL
+203110,Draymond Green,GSW Warriors,Ailier fort,198.0,104,12,35,GSW
+1630224,Jalen Green,HOU Rockets,Arrière,193.0,84,3,23,HOU
+1629750,Javonte Green,CLE Cavaliers,Arrière,196.0,92,5,32,CLE
+201145,Jeff Green,HOU Rockets,Ailier fort,203.0,106,16,39,HOU
+1630182,Josh Green,CHA Hornets,Arrière,196.0,90,4,25,CHA
+1629656,Quentin Grimes,PHI 76ers,Arrière,193.0,95,3,25,PHI
+1631243,Mouhamed Gueye,ATL Hawks,Ailier fort,208.0,95,1,23,ATL
+1629060,Rui Hachimura,LAL Lakers,Ailier fort,203.0,104,5,27,LAL
+1630169,Tyrese Haliburton,IND Pacers,Meneur,196.0,83,4,25,IND
+1641790,Pj Hall,DEN Nuggets,Pivot,208.0,111,0,23,DEN
+203501,Tim Hardaway Jr,DET Pistons,Arrière,196.0,92,11,33,DET
+201935,James Harden,LAC Clippers,Meneur,196.0,99,15,36,LAC
+1630702,Jaden Hardy,DAL Mavericks,Arrière,190.0,89,2,23,DAL
+1641989,Elijah Harkless,UTA Jazz,Arrière,190.0,88,0,25,UTA
+1631199,Ron Harper Jr,DET Pistons,Ailier,193.0,105,2,25,DET
+203914,Gary Harris,ORL Magic,Arrière,193.0,95,10,31,ORL
+202699,Tobias Harris,DET Pistons,Ailier fort,203.0,102,13,33,DET
+1628404,Josh Hart,NYC Knicks,Arrière,193.0,97,7,30,NYC
+1628392,Isaiah Hartenstein,OKC Thunder,Pivot,213.0,113,6,27,OKC
+1630573,Sam Hauser,BOS Celtics,Ailier fort,201.0,98,3,28,BOS
+1641722,Jordan Hawkins,NOP Pelicans,Arrière,196.0,86,1,23,NOP
+1629637,Jaxson Hayes,LAL Lakers,Pivot,213.0,99,5,25,LAL
+1630703,Scoot Henderson,POR Trail Blazers,Meneur,190.0,93,1,21,POR
+1641707,Taylor Hendricks,UTA Jazz,Ailier fort,206.0,97,1,22,UTA
+1629639,Tyler Herro,MIA Heat,Arrière,196.0,88,5,25,MIA
+1627741,Buddy Hield,GSW Warriors,Arrière,193.0,99,8,33,GSW
+1629312,Haywood Highsmith,MIA Heat,Ailier,196.0,99,4,29,MIA
+1628988,Aaron Holiday,HOU Rockets,Meneur,183.0,83,6,29,HOU
+201950,Jrue Holiday,BOS Celtics,Meneur,193.0,92,15,35,BOS
+1641842,Ronald Holland,DET Pistons,Ailier,203.0,93,0,20,DET
+1626158,Richaun Holmes,WAS Wizards,Ailier fort,206.0,106,9,32,WAS
+1641747,Daron Holmes,DEN Nuggets,Ailier fort,208.0,102,0,23,DEN
+1631096,Chet Holmgren,OKC Thunder,Pivot,216.0,94,1,23,OKC
+1641720,Jalen Hood Schifino,PHI 76ers,Arrière,196.0,95,1,22,PHI
+201143,Al Horford,BOS Celtics,Pivot,206.0,108,17,39,BOS
+1629659,Talen Horton Tucker,CHI Bulls,Arrière,193.0,106,5,25,CHI
+1631216,Caleb Houstan,ORL Magic,Ailier,203.0,92,2,22,ORL
+1641724,Jett Howard,ORL Magic,Ailier,198.0,97,1,22,ORL
+1628989,Kevin Huerter,CHI Bulls,Arrière,201.0,89,6,27,CHI
+1630643,Jay Huff,MEM Grizzlies,Pivot,216.0,108,3,28,MEM
+1630574,Ariel Hukporti,NYC Knicks,Pivot,211.0,111,0,23,NYC
+1629631,De Andre Hunter,CLE Cavaliers,Ailier,203.0,100,5,28,CLE
+1630538,Bones Hyland,MIN Timberwolves,Meneur,188.0,76,3,25,MIN
+1642345,Oso Ighodaro,PHX Suns,Ailier fort,213.0,106,0,23,PHX
+204060,Joe Ingles,MIN Timberwolves,Ailier,203.0,99,10,38,MIN
+1627742,Brandon Ingram,TOR Raptors,Ailier,203.0,86,8,28,TOR
+1631127,Harrison Ingram,SAS Spurs,Ailier,196.0,104,0,23,SAS
+202681,Kyrie Irving,DAL Mavericks,Arrière,188.0,88,13,33,DAL
+1628371,Jonathan Isaac,ORL Magic,Ailier fort,208.0,104,5,28,ORL
+1631093,Jaden Ivey,DET Pistons,Arrière,193.0,88,2,23,DET
+1641713,Gg Jackson,MEM Grizzlies,Ailier fort,206.0,95,1,21,MEM
+1630543,Isaiah Jackson,IND Pacers,Pivot,206.0,92,3,23,IND
+1631245,Quenton Jackson,IND Pacers,Meneur,196.0,78,2,27,IND
+1641748,Andre Jackson Jr,MIL Bucks,Arrière,198.0,94,1,24,MIL
+1628991,Jaren Jackson Jr,MEM Grizzlies,Pivot,208.0,109,6,26,MEM
+1631218,Trayce Jackson Davis,GSW Warriors,Pivot,206.0,111,1,25,GSW
+1642355,Bronny James,LAL Lakers,Arrière,190.0,95,0,21,LAL
+2544,Lebron James,LAL Lakers,Ailier,206.0,113,21,41,LAL
+1631170,Jaime Jaquez Jr,MIA Heat,Ailier,198.0,102,1,24,MIA
+1629610,Daquan Jeffries,CHA Hornets,Arrière,196.0,100,5,28,CHA
+1641998,Trey Jemison,LAL Lakers,Pivot,211.0,122,1,26,LAL
+1642450,Daniss Jenkins,DET Pistons,Meneur,190.0,74,0,24,DET
+1629660,Ty Jerome,CLE Cavaliers,Arrière,196.0,88,5,28,CLE
+1630198,Isaiah Joe,OKC Thunder,Arrière,190.0,74,4,26,OKC
+1642358,Aj Johnson,WAS Wizards,Arrière,196.0,72,0,21,WAS
+1629661,Cameron Johnson,BKN Nets,Ailier fort,203.0,95,5,29,BKN
+1630552,Jalen Johnson,ATL Hawks,Ailier,203.0,99,3,24,ATL
+201949,James Johnson,IND Pacers,Ailier fort,201.0,108,15,38,IND
+1629640,Keldon Johnson,SAS Spurs,Ailier,196.0,99,5,26,SAS
+1630553,Keon Johnson,BKN Nets,Arrière,196.0,83,3,23,BKN
+1642352,Keshad Johnson,MIA Heat,Ailier,201.0,102,0,24,MIA
+203999,Nikola Jokic,DEN Nuggets,Pivot,211.0,128,9,30,DEN
+1641732,Colby Jones,WAS Wizards,Arrière,198.0,93,1,23,WAS
+1641794,Dillon Jones,OKC Thunder,Ailier,196.0,106,0,24,OKC
+1630529,Herbert Jones,NOP Pelicans,Ailier,201.0,93,3,27,NOP
+1642403,Isaac Jones,SAC Kings,Ailier fort,206.0,111,0,25,SAC
+1630539,Kai Jones,DAL Mavericks,Pivot,211.0,100,2,24,DAL
+1630222,Mason Jones,SAC Kings,Arrière,193.0,90,3,27,SAC
+1642461,Spencer Jones,DEN Nuggets,Ailier,201.0,102,0,24,DEN
+1630200,Tre Jones,CHI Bulls,Meneur,185.0,83,4,25,CHI
+1626145,Tyus Jones,PHX Suns,Meneur,185.0,88,9,29,PHX
+1627884,Derrick Jones Jr,LAC Clippers,Ailier,198.0,95,8,28,LAC
+201599,Deandre Jordan,DEN Nuggets,Pivot,211.0,120,16,37,DEN
+202709,Cory Joseph,ORL Magic,Meneur,188.0,90,13,34,ORL
+1631107,Nikola Jovic,MIA Heat,Ailier fort,208.0,92,2,22,MIA
+1630548,Johnny Juzang,UTA Jazz,Arrière,196.0,102,2,24,UTA
+1642530,Yuki Kawamura,MEM Grizzlies,Meneur,173.0,72,0,24,MEM
+1628379,Luke Kennard,MEM Grizzlies,Arrière,196.0,93,7,29,MEM
+1631117,Walker Kessler,UTA Jazz,Pivot,213.0,111,2,24,UTA
+1630296,Braxton Key,GSW Warriors,Ailier,203.0,102,3,28,GSW
+1630557,Corey Kispert,WAS Wizards,Ailier,198.0,101,3,26,WAS
+1628467,Maxi Kleber,LAL Lakers,Ailier fort,208.0,108,7,33,LAL
+1641752,Bobi Klintman,DET Pistons,Ailier,206.0,102,0,22,DET
+1642261,Dalton Knecht,LAL Lakers,Ailier,198.0,97,0,24,LAL
+1628995,Kevin Knox,GSW Warriors,Ailier,203.0,97,6,26,GSW
+1642278,Tyler Kolek,NYC Knicks,Meneur,190.0,88,0,24,NYC
+1631132,Christian Koloko,LAL Lakers,Pivot,213.0,102,1,25,LAL
+1629723,John Konchar,MEM Grizzlies,Arrière,196.0,95,5,29,MEM
+1628436,Luke Kornet,BOS Celtics,Pivot,216.0,113,7,30,BOS
+1630249,Vit Krejci,ATL Hawks,Meneur,203.0,88,3,25,ATL
+1630228,Jonathan Kuminga,GSW Warriors,Ailier fort,201.0,102,3,23,GSW
+1628398,Kyle Kuzma,MIL Bucks,Ailier fort,206.0,100,7,30,MIL
+1631222,Jake Laravia,SAC Kings,Ailier fort,201.0,106,2,24,SAC
+203897,Zach Lavine,SAC Kings,Ailier,196.0,90,10,30,SAC
+1629111,Jock Landale,HOU Rockets,Pivot,211.0,115,3,30,HOU
+1641796,Pelle Larsson,MIA Heat,Arrière,196.0,97,0,24,MIA
+1630639,Aj Lawson,TOR Raptors,Arrière,198.0,81,2,25,TOR
+1627747,Caris Levert,ATL Hawks,Ailier,198.0,92,8,31,ATL
+1627814,Damion Lee,PHX Suns,Arrière,198.0,95,6,33,PHX
+203458,Alex Len,LAL Lakers,Pivot,213.0,113,11,32,LAL
+202695,Kawhi Leonard,LAC Clippers,Ailier,201.0,102,12,34,LAC
+1641721,Maxwell Lewis,BKN Nets,Ailier,201.0,97,1,23,BKN
+1630604,E J Liddell,CHI Bulls,Ailier fort,198.0,108,1,25,CHI
+203081,Damian Lillard,MIL Bucks,Meneur,188.0,88,12,35,MIL
+1641726,Dereck Lively,DAL Mavericks,Pivot,216.0,104,1,21,DAL
+1641753,Chris Livingston,MIL Bucks,Ailier,198.0,99,1,22,MIL
+1626172,Kevon Looney,GSW Warriors,Pivot,206.0,100,9,29,GSW
+201572,Brook Lopez,MIL Bucks,Pivot,216.0,127,16,37,MIL
+201567,Kevin Love,MIA Heat,Ailier fort,203.0,113,16,37,MIA
+200768,Kyle Lowry,PHI 76ers,Meneur,183.0,88,18,39,PHI
+1641754,Seth Lundy,LAC Clippers,Arrière,193.0,99,1,25,LAC
+1626168,Trey Lyles,SAC Kings,Ailier fort,206.0,106,9,30,SAC
+1630572,Sandro Mamukelashvili,SAS Spurs,Ailier fort,206.0,108,3,26,SAS
+1629611,Terance Mann,ATL Hawks,Arrière,196.0,97,5,29,ATL
+1630544,Tre Mann,CHA Hornets,Meneur,190.0,80,3,24,CHA
+1628374,Lauri Markkanen,UTA Jazz,Ailier fort,213.0,108,7,28,UTA
+1630230,Naji Marshall,DAL Mavericks,Ailier,198.0,99,4,27,DAL
+1628997,Caleb Martin,DAL Mavericks,Ailier,196.0,92,5,30,DAL
+1628998,Cody Martin,PHX Suns,Ailier,198.0,92,5,30,PHX
+1641798,Jaylen Martin,WAS Wizards,Ailier,198.0,97,0,21,WAS
+1630231,Kj Martin,UTA Jazz,Ailier fort,198.0,97,4,24,UTA
+1631213,Tyrese Martin,BKN Nets,Arrière,198.0,97,1,26,BKN
+1629726,Garrison Mathews,ATL Hawks,Arrière,198.0,97,5,29,ATL
+1631097,Bennedict Mathurin,IND Pacers,Ailier,196.0,95,2,23,IND
+1631255,Karlo Matkovic,NOP Pelicans,Ailier fort,208.0,104,0,24,NOP
+1630178,Tyrese Maxey,PHI 76ers,Meneur,188.0,90,4,25,PHI
+1630540,Miles Mcbride,NYC Knicks,Meneur,185.0,88,3,25,NYC
+1642272,Jared Mccain,PHI 76ers,Arrière,190.0,88,0,21,PHI
+1630644,Mac Mcclung,ORL Magic,Arrière,188.0,83,2,26,ORL
+203468,Cj Mccollum,NOP Pelicans,Meneur,190.0,86,11,34,NOP
+204456,T J Mcconnell,IND Pacers,Meneur,185.0,86,9,33,IND
+1641755,Kevin Mccullar Jr,NYC Knicks,Ailier,198.0,95,0,24,NYC
+1630183,Jaden Mcdaniels,MIN Timberwolves,Ailier fort,206.0,83,4,25,MIN
+203926,Doug Mcdermott,SAC Kings,Ailier,198.0,102,10,33,SAC
+1631121,Bryce Mcgowens,POR Trail Blazers,Arrière,198.0,86,2,23,POR
+1629162,Jordan Mclaughlin,SAS Spurs,Meneur,183.0,83,5,29,SAS
+1629098,Jack Mcveigh,HOU Rockets,Ailier fort,203.0,97,0,29,HOU
+1629001,De Anthony Melton,BKN Nets,Arrière,190.0,90,6,27,BKN
+1630241,Sam Merrill,CLE Cavaliers,Arrière,193.0,92,4,29,CLE
+203995,Vasilije Micic,PHX Suns,Meneur,190.0,85,1,31,PHX
+203114,Khris Middleton,WAS Wizards,Ailier,201.0,100,12,34,WAS
+1641706,Brandon Miller,CHA Hornets,Ailier,201.0,90,1,23,CHA
+1641801,Emanuel Miller,CHI Bulls,Ailier fort,201.0,97,0,25,CHI
+1641757,Jordan Miller,LAC Clippers,Ailier,196.0,87,1,25,LAC
+1631159,Leonard Miller,MIN Timberwolves,Ailier,208.0,99,1,22,MIN
+201988,Patty Mills,LAC Clippers,Meneur,188.0,81,15,37,LAC
+1629003,Shake Milton,LAL Lakers,Arrière,196.0,92,6,29,LAL
+1631303,Justin Minaya,POR Trail Blazers,Ailier,196.0,92,2,26,POR
+1642434,Riley Minix,SAS Spurs,Ailier,201.0,104,0,25,SAS
+1631169,Josh Minott,MIN Timberwolves,Ailier,203.0,92,2,23,MIN
+1642274,Yves Missi,NOP Pelicans,Pivot,211.0,106,0,21,NOP
+1642349,Ajay Mitchell,OKC Thunder,Arrière,196.0,86,0,23,OKC
+1630558,Davion Mitchell,MIA Heat,Meneur,183.0,91,3,27,MIA
+1628378,Donovan Mitchell,CLE Cavaliers,Arrière,190.0,97,7,29,CLE
+1630596,Evan Mobley,CLE Cavaliers,Ailier fort,211.0,97,3,24,CLE
+1642367,Jonathan Mogbo,TOR Raptors,Ailier fort,206.0,102,0,24,TOR
+1628370,Malik Monk,SAC Kings,Arrière,190.0,90,7,27,SAC
+1630541,Moses Moody,GSW Warriors,Arrière,196.0,95,3,23,GSW
+1631111,Wendell Moore Jr,CHA Hornets,Arrière,196.0,97,2,24,CHA
+1629630,Ja Morant,MEM Grizzlies,Meneur,188.0,78,5,26,MEM
+202693,Markieff Morris,LAL Lakers,Ailier fort,206.0,111,13,36,LAL
+1628420,Monte Morris,PHX Suns,Meneur,188.0,83,7,30,PHX
+1630530,Trey Murphy,NOP Pelicans,Ailier,203.0,93,3,25,NOP
+1627749,Dejounte Murray,NOP Pelicans,Meneur,193.0,81,7,29,NOP
+1627750,Jamal Murray,DEN Nuggets,Meneur,193.0,97,7,28,DEN
+1631099,Keegan Murray,SAC Kings,Ailier fort,203.0,102,2,25,SAC
+1631200,Kris Murray,POR Trail Blazers,Ailier,203.0,97,1,25,POR
+1629004,Svi Mykhailiuk,UTA Jazz,Ailier,201.0,92,6,28,UTA
+1631250,Pete Nance,MIL Bucks,Pivot,208.0,102,1,25,MIL
+1626204,Larry Nance Jr,ATL Hawks,Ailier fort,203.0,111,9,32,ATL
+1629614,Andrew Nembhard,IND Pacers,Arrière,193.0,86,2,25,IND
+1630174,Aaron Nesmith,IND Pacers,Ailier,198.0,97,4,26,IND
+1641803,Tristen Newton,MIN Timberwolves,Arrière,196.0,86,0,24,MIN
+1627777,Georges Niang,ATL Hawks,Ailier fort,201.0,104,8,32,ATL
+1630192,Zeke Nnaji,DEN Nuggets,Ailier fort,206.0,108,4,24,DEN
+1641936,Miles Norris,BOS Celtics,Ailier fort,201.0,99,0,25,BOS
+203994,Jusuf Nurkic,CHA Hornets,Pivot,213.0,131,10,31,CHA
+1626220,Royce O Neale,PHX Suns,Ailier,198.0,102,7,32,PHX
+1629643,Chuma Okeke,CLE Cavaliers,Ailier fort,201.0,103,4,27,CLE
+1629006,Josh Okogie,CHA Hornets,Arrière,193.0,96,6,27,CHA
+1630168,Onyeka Okongwu,ATL Hawks,Pivot,208.0,108,4,25,ATL
+1630171,Isaac Okoro,CLE Cavaliers,Arrière,196.0,102,4,24,CLE
+203482,Kelly Olynyk,NOP Pelicans,Pivot,211.0,108,11,34,NOP
+1626162,Kelly Oubre Jr,PHI 76ers,Ailier,203.0,92,9,30,PHI
+101108,Chris Paul,SAS Spurs,Meneur,183.0,79,19,40,SAS
+1626166,Cameron Payne,NYC Knicks,Meneur,190.0,83,9,31,NYC
+203901,Elfrid Payton,NOP Pelicans,Meneur,190.0,88,8,31,NOP
+1627780,Gary Payton,GSW Warriors,Arrière,188.0,88,8,33,GSW
+1641809,Drew Peterson,BOS Celtics,Ailier fort,206.0,92,1,26,BOS
+1641763,Julian Phillips,CHI Bulls,Ailier,203.0,89,1,22,CHI
+1629618,Jalen Pickett,DEN Nuggets,Arrière,188.0,91,1,26,DEN
+1630590,Scotty Pippen Jr,MEM Grizzlies,Meneur,185.0,77,2,25,MEM
+1631342,Daeqwon Plowden,ATL Hawks,Arrière,198.0,97,0,27,ATL
+203486,Mason Plumlee,PHX Suns,Pivot,208.0,115,11,35,PHX
+1641764,Brandin Podziemski,GSW Warriors,Arrière,193.0,92,1,22,GSW
+1627751,Jakob Poeltl,TOR Raptors,Pivot,213.0,117,8,30,TOR
+1629673,Jordan Poole,WAS Wizards,Arrière,193.0,87,5,26,WAS
+1641854,Craig Porter Jr,CLE Cavaliers,Meneur,185.0,81,1,25,CLE
+1629645,Kevin Porter Jr,MIL Bucks,Arrière,193.0,92,4,25,MIL
+1629008,Michael Porter Jr,DEN Nuggets,Ailier,208.0,98,5,27,DEN
+1626171,Bobby Portis,MIL Bucks,Ailier fort,208.0,113,9,30,MIL
+204001,Kristaps Porzingis,BOS Celtics,Pivot,218.0,108,8,30,BOS
+1642366,Quinten Post,GSW Warriors,Ailier fort,213.0,107,0,25,GSW
+1630695,Micah Potter,UTA Jazz,Pivot,206.0,112,3,27,UTA
+203939,Dwight Powell,DAL Mavericks,Pivot,208.0,108,10,34,DAL
+1626181,Norman Powell,LAC Clippers,Arrière,193.0,97,9,32,LAC
+1627752,Taurean Prince,MIL Bucks,Ailier,198.0,98,8,31,MIL
+1630202,Payton Pritchard,BOS Celtics,Meneur,185.0,88,4,27,BOS
+1641765,Olivier Maxence Prosper,DAL Mavericks,Ailier fort,201.0,104,1,23,DAL
+1642389,Zyon Pullin,MEM Grizzlies,Arrière,193.0,93,0,24,MEM
+1630243,Trevelin Queen,ORL Magic,Arrière,196.0,86,3,28,ORL
+1629674,Neemias Queta,BOS Celtics,Pivot,213.0,112,3,26,BOS
+1630193,Immanuel Quickley,TOR Raptors,Meneur,188.0,86,4,26,TOR
+1631311,Lester Quinones,NOP Pelicans,Arrière,193.0,94,2,25,NOP
+203944,Julius Randle,MIN Timberwolves,Ailier fort,206.0,113,10,31,MIN
+1641871,Duop Reath,POR Trail Blazers,Pivot,206.0,111,1,29,POR
+1630559,Austin Reaves,LAL Lakers,Arrière,196.0,89,3,27,LAL
+1630194,Paul Reed,DET Pistons,Pivot,206.0,95,4,26,DET
+1642024,Alex Reese,PHI 76ers,Ailier fort,206.0,111,0,26,PHI
+1641810,Antonio Reeves,NOP Pelicans,Arrière,196.0,92,0,23,NOP
+1629675,Naz Reid,MIN Timberwolves,Pivot,206.0,119,5,26,MIN
+1631197,Jared Rhoden,TOR Raptors,Arrière,196.0,95,2,26,TOR
+1630208,Nick Richards,PHX Suns,Pivot,213.0,111,4,28,PHX
+1642258,Zaccharie Risacher,ATL Hawks,Ailier,203.0,90,0,20,ATL
+1629130,Duncan Robinson,MIA Heat,Ailier,201.0,97,6,31,MIA
+1629011,Mitchell Robinson,NYC Knicks,Pivot,213.0,108,6,27,NYC
+1630526,Jeremiah Robinson Earl,NOP Pelicans,Ailier fort,203.0,108,3,25,NOP
+1631223,David Roddy,HOU Rockets,Ailier fort,193.0,115,2,24,HOU
+1631157,Ryan Rollins,MIL Bucks,Meneur,190.0,81,2,23,MIL
+1642050,Jackson Rowe,GSW Warriors,Ailier fort,201.0,95,0,28,GSW
+1626179,Terry Rozier,MIA Heat,Meneur,185.0,86,9,31,MIA
+1641712,Rayan Rupert,POR Trail Blazers,Arrière,198.0,88,1,21,POR
+1626156,D Angelo Russell,BKN Nets,Meneur,190.0,87,9,29,BKN
+1627734,Domantas Sabonis,SAC Kings,Pivot,208.0,108,8,29,SAC
+1642275,Tidjane Salaun,CHA Hornets,Ailier fort,203.0,93,0,20,CHA
+1630611,Gui Santos,GSW Warriors,Ailier fort,198.0,83,1,23,GSW
+1642259,Alex Sarr,WAS Wizards,Pivot,213.0,92,0,20,WAS
+1631204,Marcus Sasser,DET Pistons,Meneur,188.0,88,1,25,DET
+1631248,Baylor Scheierman,BOS Celtics,Arrière,198.0,92,0,25,BOS
+203471,Dennis Schroder,DET Pistons,Meneur,185.0,79,11,32,DET
+1630578,Alperen Sengun,HOU Rockets,Pivot,211.0,110,3,23,HOU
+1641729,Brice Sensabaugh,UTA Jazz,Ailier,196.0,106,1,22,UTA
+1629012,Collin Sexton,UTA Jazz,Arrière,190.0,86,6,26,UTA
+1629013,Landry Shamet,NYC Knicks,Arrière,193.0,86,6,28,NYC
+1630545,Terrence Shannon Jr,MIN Timberwolves,Arrière,198.0,97,0,25,MIN
+1630549,Day Ron Sharpe,BKN Nets,Pivot,206.0,120,3,24,BKN
+1631101,Shaedon Sharpe,POR Trail Blazers,Arrière,196.0,94,2,22,POR
+1642347,Jamal Shead,TOR Raptors,Meneur,185.0,90,0,23,TOR
+1641767,Ben Sheppard,IND Pacers,Arrière,198.0,86,1,24,IND
+1642263,Reed Sheppard,HOU Rockets,Meneur,188.0,83,0,21,HOU
+1627783,Pascal Siakam,IND Pacers,Ailier fort,203.0,111,8,31,IND
+1627732,Ben Simmons,LAC Clippers,Meneur,208.0,108,6,29,LAC
+1629014,Anfernee Simons,POR Trail Blazers,Arrière,190.0,90,6,26,POR
+1642354,Kj Simpson,CHA Hornets,Meneur,183.0,85,0,23,CHA
+1630579,Jericho Sims,MIL Bucks,Pivot,208.0,113,3,27,MIL
+203935,Marcus Smart,WAS Wizards,Meneur,190.0,99,10,31,WAS
+1630696,Dru Smith,MIA Heat,Arrière,188.0,92,2,28,MIA
+1630188,Jalen Smith,CHI Bulls,Pivot,206.0,97,4,25,CHI
+1642449,Tolu Smith,DET Pistons,Ailier fort,211.0,92,0,25,DET
+1641890,Tyler Smith,MIL Bucks,Ailier fort,206.0,101,0,21,MIL
+1631095,Jabari Smith Jr,HOU Rockets,Ailier fort,208.0,99,2,22,HOU
+1641733,Nick Smith Jr,CHA Hornets,Arrière,188.0,83,1,21,CHA
+1631110,Jeremy Sochan,SAS Spurs,Ailier fort,203.0,104,2,22,SAS
+1642285,Cam Spencer,MEM Grizzlies,Arrière,193.0,92,0,25,MEM
+1630311,Pat Spencer,GSW Warriors,Meneur,190.0,92,1,29,GSW
+1630531,Jaden Springer,UTA Jazz,Arrière,193.0,91,3,23,UTA
+1641815,Isaiah Stevens,MIA Heat,Meneur,183.0,83,0,25,MIA
+1630205,Lamar Stevens,MEM Grizzlies,Ailier fort,201.0,104,4,28,MEM
+1630191,Isaiah Stewart,DET Pistons,Pivot,203.0,113,4,24,DET
+1631124,Julian Strawther,DEN Nuggets,Arrière,198.0,92,1,23,DEN
+1629622,Max Strus,CLE Cavaliers,Ailier,196.0,97,5,29,CLE
+1630591,Jalen Suggs,ORL Magic,Meneur,196.0,92,3,24,ORL
+1630256,Jae Sean Tate,HOU Rockets,Ailier,193.0,104,4,30,HOU
+1628369,Jayson Tatum,BOS Celtics,Ailier fort,203.0,95,7,27,BOS
+202066,Garrett Temple,TOR Raptors,Arrière,196.0,88,14,39,TOR
+1631207,Dalen Terry,CHI Bulls,Arrière,201.0,88,2,23,CHI
+1630560,Cam Thomas,BKN Nets,Arrière,190.0,95,3,24,BKN
+1641708,Amen Thompson,HOU Rockets,Ailier,201.0,90,1,22,HOU
+1641709,Ausar Thompson,DET Pistons,Ailier,198.0,92,1,22,DET
+1630679,Ethan Thompson,ORL Magic,Arrière,196.0,88,0,26,ORL
+202691,Klay Thompson,DAL Mavericks,Ailier,196.0,99,11,35,DAL
+202684,Tristan Thompson,CLE Cavaliers,Pivot,206.0,115,13,34,CLE
+1630550,Jt Thor,WAS Wizards,Ailier fort,206.0,92,3,23,WAS
+1629680,Matisse Thybulle,POR Trail Blazers,Arrière,196.0,91,5,28,POR
+1630214,Xavier Tillman Sr,BOS Celtics,Pivot,201.0,111,4,26,BOS
+1631166,Drew Timme,BKN Nets,Ailier fort,208.0,106,0,25,BKN
+1641772,Nae Qwan Tomlin,CLE Cavaliers,Ailier fort,208.0,95,0,25,CLE
+1642260,Nikola Topic,OKC Thunder,Arrière,198.0,90,0,20,OKC
+1631210,Jacob Toppin,ATL Hawks,Ailier,203.0,90,1,25,ATL
+1630167,Obi Toppin,IND Pacers,Ailier fort,206.0,99,4,27,IND
+1626157,Karl Anthony Towns,NYC Knicks,Pivot,213.0,112,9,30,NYC
+1631247,Luke Travers,CLE Cavaliers,Arrière,201.0,93,0,24,CLE
+1629018,Gary Trent Jr,MIL Bucks,Arrière,196.0,92,6,26,MIL
+1631131,Oscar Tshiebwe,UTA Jazz,Pivot,203.0,115,1,26,UTA
+200782,P J Tucker,NYC Knicks,Ailier,196.0,111,13,40,NYC
+1626167,Myles Turner,IND Pacers,Pivot,211.0,113,9,29,IND
+1641816,Hunter Tyson,DEN Nuggets,Ailier fort,203.0,97,1,25,DEN
+1642281,Jaylon Tyson,CLE Cavaliers,Arrière,198.0,97,0,23,CLE
+1630649,Stanley Umude,MIL Bucks,Arrière,198.0,95,2,26,MIL
+202685,Jonas Valanciunas,SAC Kings,Pivot,211.0,120,12,33,SAC
+1627832,Fred Vanvleet,HOU Rockets,Meneur,183.0,89,8,31,HOU
+1629020,Jarred Vanderbilt,LAL Lakers,Ailier fort,203.0,97,6,26,LAL
+1630170,Devin Vassell,SAS Spurs,Arrière,196.0,90,4,25,SAS
+1629216,Gabe Vincent,LAL Lakers,Meneur,188.0,90,5,29,LAL
+1641774,Tristan Vukcevic,WAS Wizards,Pivot,213.0,99,1,22,WAS
+202696,Nikola Vucevic,CHI Bulls,Pivot,208.0,117,13,35,CHI
+1629731,Dean Wade,CLE Cavaliers,Ailier fort,206.0,103,5,29,CLE
+1630532,Franz Wagner,ORL Magic,Ailier,208.0,99,3,24,ORL
+1629021,Moritz Wagner,ORL Magic,Pivot,211.0,111,6,28,ORL
+1631133,Jabari Walker,POR Trail Blazers,Ailier,201.0,107,2,23,POR
+1641716,Jarace Walker,IND Pacers,Ailier fort,201.0,106,1,22,IND
+1629022,Lonnie Walker Iv,PHI 76ers,Arrière,193.0,92,6,27,PHI
+1641717,Cason Wallace,OKC Thunder,Arrière,190.0,88,1,22,OKC
+1630811,Keaton Wallace,ATL Hawks,Meneur,190.0,83,0,26,ATL
+1641775,Jordan Walsh,BOS Celtics,Ailier fort,198.0,92,1,21,BOS
+1642266,Ja Kobe Walter,TOR Raptors,Arrière,196.0,81,0,21,TOR
+1642276,Kel El Ware,MIA Heat,Pivot,213.0,104,0,21,MIA
+1629023,P J Washington,DAL Mavericks,Ailier fort,198.0,104,5,27,DAL
+1631102,Tyty Washington Jr,PHX Suns,Meneur,190.0,88,2,24,PHX
+1630322,Lindy Waters,DET Pistons,Arrière,198.0,95,3,28,DET
+1630570,Trendon Watford,BKN Nets,Ailier fort,203.0,107,3,25,BKN
+1641817,Anton Watson,NYC Knicks,Ailier,203.0,102,0,25,NYC
+1631212,Peyton Watson,DEN Nuggets,Ailier,201.0,90,2,23,DEN
+1642377,Jaylen Wells,MEM Grizzlies,Arrière,203.0,111,0,22,MEM
+1641705,Victor Wembanyama,SAS Spurs,Pivot,221.0,106,1,21,SAS
+1631104,Blake Wesley,SAS Spurs,Arrière,190.0,83,2,22,SAS
+201566,Russell Westbrook,DEN Nuggets,Meneur,193.0,90,16,37,DEN
+1629632,Coby White,CHI Bulls,Arrière,196.0,88,5,25,CHI
+1628401,Derrick White,BOS Celtics,Arrière,193.0,86,7,31,BOS
+1641727,Dariq Whitehead,BKN Nets,Ailier,198.0,99,1,21,BKN
+1641715,Cam Whitmore,HOU Rockets,Ailier,201.0,104,1,21,HOU
+1630598,Aaron Wiggins,OKC Thunder,Arrière,196.0,86,3,26,OKC
+203952,Andrew Wiggins,MIA Heat,Ailier,201.0,89,10,30,MIA
+1630314,Brandon Williams,DAL Mavericks,Meneur,185.0,86,2,26,DAL
+1642262,Cody Williams,UTA Jazz,Arrière,201.0,86,0,21,UTA
+1629684,Grant Williams,CHA Hornets,Ailier fort,198.0,107,5,27,CHA
+1631114,Jalen Williams,OKC Thunder,Arrière,196.0,95,2,24,OKC
+1631119,Jaylin Williams,OKC Thunder,Ailier fort,206.0,108,2,23,OKC
+1629026,Kenrich Williams,OKC Thunder,Ailier fort,198.0,95,6,31,OKC
+1631109,Mark Williams,CHA Hornets,Pivot,213.0,108,2,24,CHA
+1631466,Nate Williams,HOU Rockets,Arrière,196.0,92,2,26,HOU
+1630172,Patrick Williams,CHI Bulls,Ailier fort,201.0,97,4,24,CHI
+1630533,Ziaire Williams,BKN Nets,Ailier,206.0,83,3,24,BKN
+1629057,Robert Williams,POR Trail Blazers,Pivot,206.0,112,6,28,POR
+1631246,Vince Williams Jr,MEM Grizzlies,Arrière,193.0,92,2,25,MEM
+1629627,Zion Williamson,NOP Pelicans,Ailier fort,198.0,128,4,25,NOP
+1630592,Jalen Wilson,BKN Nets,Ailier fort,198.0,99,1,25,BKN
+1626153,Delon Wright,NYC Knicks,Meneur,196.0,83,9,33,NYC
+1627824,Guerschon Yabusele,PHI 76ers,Pivot,203.0,120,2,30,PHI
+1642443,Jahmir Young,CHI Bulls,Meneur,185.0,83,0,25,CHI
+1629027,Trae Young,ATL Hawks,Meneur,185.0,74,6,27,ATL
+1627826,Ivica Zubac,LAC Clippers,Pivot,213.0,108,8,28,LAC
+1641783,Tristan Da Silva,ORL Magic,Ailier,203.0,98,0,24,ORL
+1628427,Vlatko Cancar,DEN Nuggets,Ailier fort,203.0,107,4,28,DEN
+203967,Dario Saric,DEN Nuggets,Pivot,208.0,102,7,31,DEN

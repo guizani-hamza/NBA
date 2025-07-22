@@ -1,0 +1,537 @@
+Player,Team,2024-25,2025-26,2026-27,2027-28,2028-29,2029-30,Guaranteed,Player-additional,Team_code,experience_year,contract_type
+Stephen Curry,GSW Warriors,55761216,59606817,62587158,0,0,0,177955191,curryst01,GSW,15.0,Supermax
+Joel Embiid,PHI 76ers,51415938,55224526,57985752,62624612,67263472,0,227250828,embiijo01,PHI,8.0,Supermax
+Nikola Jokic,DEN Nuggets,51415938,55224526,59033114,62841702,0,0,165673578,jokicni01,DEN,9.0,Supermax
+Kevin Durant,PHX Suns,51179021,54708609,0,0,0,0,105887630,duranke01,PHX,16.0,Supermax
+Bradley Beal,PHX Suns,50203930,53666270,57128610,0,0,0,103870200,bealbr01,PHX,12.0,Supermax
+Jaylen Brown,BOS Celtics,49205800,53142264,57078728,61015192,64951656,0,285393640,brownja02,BOS,8.0,Supermax
+Devin Booker,PHX Suns,49205800,53142264,57078728,61015192,0,0,220441984,bookede01,PHX,9.0,Supermax
+Karl Anthony Towns,NYC Knicks,49205800,53142264,57078728,61015192,0,0,159426792,townska01,NYC,9.0,Supermax
+Paul George,PHI 76ers,49205800,51666090,54126380,56586670,0,0,154998270,georgpa01,PHI,14.0,Supermax
+Kawhi Leonard,LAC Clippers,49205800,50000000,50300000,0,0,0,149505800,leonaka01,LAC,12.0,Supermax
+Jimmy Butler,GSW Warriors,48798677,54126450,56832773,0,0,0,159757900,butleji01,GSW,14.0,Supermax
+Giannis Antetokounmpo,MIL Bucks,48787676,54126450,58456566,62786682,0,0,161370692,antetgi01,MIL,11.0,Supermax
+Damian Lillard,MIL Bucks,48787676,54126450,58456566,0,0,0,102914126,lillada01,MIL,12.0,Supermax
+Lebron James,LAL Lakers,48728845,52627153,0,0,0,0,48728845,jamesle01,LAL,21.0,Supermax
+Zach Lavine,SAC Kings,44531940,47499660,48967380,0,0,0,92031600,lavinza01,SAC,10.0,Standard
+Rudy Gobert,MIN Timberwolves,43827586,35000000,36500000,38000000,0,0,115327586,goberru01,MIN,11.0,Standard
+Anthony Davis,DAL Mavericks,43219440,54126450,58456566,62786682,0,0,155802456,davisan02,DAL,12.0,Standard
+Luka Doncic,LAL Lakers,43031940,45999660,48967380,0,0,0,89031600,doncilu01,LAL,6.0,Max
+Trae Young,ATL Hawks,43031940,45999660,48967380,0,0,0,89031600,youngtr01,ATL,6.0,Max
+Fred Vanvleet,HOU Rockets,42846615,44886930,0,0,0,0,42846615,vanvlfr01,HOU,8.0,Max
+Anthony Edwards,MIN Timberwolves,42176400,45550512,48924624,52298736,55672848,0,244623120,edwaran01,MIN,4.0,Max
+Tyrese Haliburton,IND Pacers,42176400,45550512,48924624,52298736,55672848,0,244623120,halibty01,IND,4.0,Max
+Lauri Markkanen,UTA Jazz,42176400,46394100,46113154,49824681,53536209,0,238044544,markkla01,UTA,7.0,Max
+Pascal Siakam,IND Pacers,42176400,45550512,48924624,52298736,0,0,188950272,siakapa01,IND,8.0,Max
+Kyrie Irving,DAL Mavericks,41000000,43962963,0,0,0,0,41000000,irvinky01,DAL,13.0,Standard
+Domantas Sabonis,SAC Kings,40500000,43636000,46772000,49908000,0,0,180816000,sabondo01,SAC,8.0,Standard
+Ben Simmons,BKN Nets,40011909,0,0,0,0,0,39256083,simmobe01,BKN,6.0,Standard
+Zion Williamson,NOP Pelicans,36725670,39446090,42166510,44886930,0,0,163225200,willizi01,NOP,4.0,Max
+Ja Morant,MEM Grizzlies,36725670,39446090,42166510,44886930,0,0,163225200,moranja01,MEM,5.0,Max
+Darius Garland,CLE Cavaliers,36725670,39446090,42166510,44886930,0,0,163225200,garlada01,CLE,5.0,Max
+Og Anunoby,NYC Knicks,36637932,39568966,42500000,45431034,48362068,0,164137932,anunoog01,NYC,7.0,Standard
+Jamal Murray,DEN Nuggets,36016200,46394100,50105628,53817156,57528684,0,243861768,murraja01,DEN,7.0,Standard
+Brandon Ingram,TOR Raptors,36016200,38095238,40000000,41904762,0,0,114111438,ingrabr01,TOR,8.0,Standard
+Shai Gilgeous Alexander,OKC Thunder,35859950,38333050,40806150,0,0,0,114999150,gilgesh01,OKC,6.0,Standard
+Michael Porter Jr,DEN Nuggets,35859950,38333050,40806150,0,0,0,86193000,portemi01,DEN,5.0,Max
+Donovan Mitchell,CLE Cavaliers,35410310,46394100,50105628,53817156,0,0,131910038,mitchdo01,CLE,7.0,Standard
+Tyrese Maxey,PHI 76ers,35147000,37958760,40770520,43582280,46394040,0,203852600,maxeyty01,PHI,4.0,Max
+Lamelo Ball,CHA Hornets,35147000,37958760,40770520,43582280,46394040,0,203852600,ballla01,CHA,4.0,Max
+Jayson Tatum,BOS Celtics,34848340,54126450,58456566,62786682,67116798,71446914,277334836,tatumja01,BOS,7.0,Standard
+Bam Adebayo,MIA Heat,34848340,37096620,48713700,52610796,56507892,0,173269456,adebaba01,MIA,7.0,Standard
+De Aaron Fox,SAS Spurs,34848340,37096620,0,0,0,0,71944960,foxde01,SAS,7.0,Standard
+Desmond Bane,MEM Grizzlies,34005250,36725670,39446090,42166510,44886930,0,197230450,banede01,MEM,4.0,Standard
+Deandre Ayton,POR Trail Blazers,34005126,35550814,0,0,0,0,69555940,aytonde01,POR,6.0,Standard
+James Harden,LAC Clippers,33653846,36346154,0,0,0,0,33653846,hardeja01,LAC,15.0,Standard
+Cj Mccollum,NOP Pelicans,33333333,30666666,0,0,0,0,63999999,mccolcj01,NOP,11.0,Standard
+Julius Randle,MIN Timberwolves,33073920,30935520,0,0,0,0,33073920,randlju01,MIN,10.0,Standard
+Immanuel Quickley,TOR Raptors,32500000,32500000,32500000,32500000,32500000,0,162500000,quickim01,TOR,4.0,Standard
+Khris Middleton,WAS Wizards,31000000,33296296,0,0,0,0,31000000,middlkh01,WAS,12.0,Standard
+Jrue Holiday,BOS Celtics,30000000,32400000,34800000,37200000,0,0,97200000,holidjr01,BOS,15.0,Standard
+Isaiah Hartenstein,OKC Thunder,30000000,28500000,28500000,0,0,0,58500000,harteis01,OKC,6.0,Standard
+Jerami Grant,POR Trail Blazers,29793104,32000001,34206898,36413790,0,0,96000003,grantje01,POR,10.0,Standard
+Jordan Poole,WAS Wizards,29651786,31848215,34044642,0,0,0,95544643,poolejo01,WAS,5.0,Standard
+Dejounte Murray,NOP Pelicans,29517135,31557103,33597072,31619506,0,0,94671310,murrade01,NOP,7.0,Standard
+Devin Vassell,SAS Spurs,29347826,27000000,27000000,24652174,27000000,0,135000000,vassede01,SAS,4.0,Standard
+Kristaps Porzingis,BOS Celtics,29268293,30731707,0,0,0,0,60000000,porzikr01,BOS,8.0,Standard
+Tyler Herro,MIA Heat,29000000,31000000,33000000,0,0,0,93000000,herroty01,MIA,5.0,Standard
+Nic Claxton,BKN Nets,27556817,25352272,23147727,20943184,0,0,97000000,claxtni01,BKN,5.0,Standard
+Miles Bridges,CHA Hornets,27173913,25000000,22826087,0,0,0,75000000,bridgmi02,CHA,5.0,Standard
+John Collins,UTA Jazz,26580000,26580000,0,0,0,0,26580000,collijo01,UTA,7.0,Standard
+Andrew Wiggins,MIA Heat,26276786,28223215,30169644,0,0,0,54500001,wiggian01,MIA,10.0,Standard
+Anfernee Simons,POR Trail Blazers,25892857,27678571,0,0,0,0,53571428,simonan01,POR,6.0,Standard
+Rj Barrett,TOR Raptors,25794643,27705357,29616071,0,0,0,83116071,barrerj01,TOR,5.0,Standard
+Tobias Harris,DET Pistons,25365854,26634146,0,0,0,0,52000000,harrito02,DET,13.0,Standard
+Jaren Jackson Jr,MEM Grizzlies,25257798,23413395,0,0,0,0,48671193,jacksja02,MEM,6.0,Standard
+Jonathan Isaac,ORL Magic,25000000,15000000,14500000,14500000,15000000,0,69000000,isaacjo01,ORL,5.0,Standard
+Jalen Brunson,NYC Knicks,24960001,34944001,37739521,40535041,43330561,0,138178564,brunsja01,NYC,6.0,Standard
+Terry Rozier,MIA Heat,24924126,26643031,0,0,0,0,51567157,roziete01,MIA,9.0,Standard
+Kyle Kuzma,MIL Bucks,24456061,22410605,20345152,0,0,0,67211818,kuzmaky01,MIL,7.0,Standard
+Draymond Green,GSW Warriors,24107143,25892857,27678571,0,0,0,77678571,greendr01,GSW,12.0,Standard
+Demar Derozan,SAC Kings,23400000,24570000,25740000,0,0,0,47970000,derozde01,SAC,15.0,Standard
+Mikal Bridges,NYC Knicks,23300000,24900000,0,0,0,0,48200000,bridgmi01,NYC,6.0,Standard
+Jaden Mcdaniels,MIN Timberwolves,23017242,24858622,26700001,28541380,30382755,0,133500000,mcdanja02,MIN,4.0,Standard
+Bruce Brown,NOP Pelicans,23000000,0,0,0,0,0,23000000,brownbr01,NOP,6.0,Standard
+Brook Lopez,MIL Bucks,23000000,0,0,0,0,0,23000000,lopezbr01,MIL,16.0,Standard
+Aaron Gordon,DEN Nuggets,22841455,22841455,31978037,34536280,37094523,0,112197227,gordoaa01,DEN,10.0,Standard
+Kentavious Caldwell Pope,ORL Magic,22757000,21621500,21621500,0,0,0,44378500,caldwke01,ORL,11.0,Standard
+Cameron Johnson,BKN Nets,22500000,20543478,22500000,0,0,0,65543478,johnsca02,BKN,5.0,Standard
+Malcolm Brogdon,WAS Wizards,22500000,0,0,0,0,0,22500000,brogdma01,WAS,8.0,Standard
+Clint Capela,ATL Hawks,22265280,0,0,0,0,0,22265280,capelca01,ATL,10.0,Standard
+Dillon Brooks,HOU Rockets,22255493,21124110,19992727,0,0,0,63372330,brookdi01,HOU,7.0,Standard
+De Andre Hunter,CLE Cavaliers,21696429,23303571,24910714,0,0,0,69910714,huntede01,CLE,5.0,Standard
+Lonzo Ball,CHI Bulls,21395348,10000000,10000000,0,0,0,31395348,balllo01,CHI,5.0,Standard
+Marcus Smart,WAS Wizards,20210284,21586855,0,0,0,0,41797139,smartma01,WAS,10.0,Standard
+Derrick White,BOS Celtics,20071429,28100000,30348000,32596000,34844000,0,111115429,whitede01,BOS,7.0,Standard
+Jarrett Allen,CLE Cavaliers,20000000,20000000,28000000,30240000,32480000,0,130720000,allenja01,CLE,7.0,Standard
+Nikola Vucevic,CHI Bulls,20000000,21481481,0,0,0,0,41481481,vucevni01,CHI,13.0,Standard
+Myles Turner,IND Pacers,19928500,0,0,0,0,0,19928500,turnemy01,IND,9.0,Standard
+Jakob Poeltl,TOR Raptors,19500000,19500000,19500000,0,0,0,39000000,poeltja01,TOR,8.0,Standard
+Duncan Robinson,MIA Heat,19406000,19888000,0,0,0,0,29294000,robindu01,MIA,6.0,Standard
+Norman Powell,LAC Clippers,19241379,20482758,0,0,0,0,39724137,powelno01,LAC,9.0,Standard
+Bojan Bogdanovic,BKN Nets,19032850,0,0,0,0,0,19032850,bogdabo02,BKN,11.0,Standard
+Keldon Johnson,SAS Spurs,19000000,17500000,17500000,0,0,0,54000000,johnske04,SAS,5.0,Standard
+D Angelo Russell,BKN Nets,18692307,0,0,0,0,0,18692307,russeda01,BKN,9.0,Standard
+Collin Sexton,UTA Jazz,18350000,19175000,0,0,0,0,37525000,sextoco01,UTA,6.0,Standard
+Josh Hart,NYC Knicks,18144000,19472240,20923760,22375280,0,0,58540000,hartjo01,NYC,7.0,Standard
+Jusuf Nurkic,CHA Hornets,18125000,19375000,0,0,0,0,37500000,nurkiju01,CHA,10.0,Standard
+Patrick Williams,CHI Bulls,18000000,18000000,18000000,18000000,18000000,0,72000000,willipa01,CHI,4.0,Standard
+Harrison Barnes,SAS Spurs,18000000,19000000,0,0,0,0,37000000,barneha02,SAS,12.0,Standard
+Malik Monk,SAC Kings,17405203,18797619,20190035,21582451,0,0,56392857,monkma01,SAC,7.0,Standard
+Bogdan Bogdanovic,LAC Clippers,17260000,16020000,16020000,0,0,0,33280000,bogdabo01,LAC,7.0,Standard
+Rui Hachimura,LAL Lakers,17000000,18259259,0,0,0,0,35259259,hachiru01,LAL,5.0,Standard
+Kevin Huerter,CHI Bulls,16830357,17991071,0,0,0,0,34821428,huertke01,CHI,6.0,Standard
+Zach Collins,CHI Bulls,16741200,18080496,0,0,0,0,34821696,colliza01,CHI,6.0,Standard
+Caris Levert,ATL Hawks,16615384,0,0,0,0,0,16615384,leverca01,ATL,8.0,Standard
+Luguentz Dort,OKC Thunder,16500000,17722222,17722222,0,0,0,34222222,dortlu01,OKC,5.0,Standard
+Tim Hardaway Jr,DET Pistons,16193183,0,0,0,0,0,16193183,hardati02,DET,11.0,Standard
+Klay Thompson,DAL Mavericks,15873016,16666667,17460317,0,0,0,50000000,thompkl01,DAL,11.0,Standard
+Deni Avdija,POR Trail Blazers,15625000,14375000,13125000,11875000,0,0,55000000,avdijde01,POR,4.0,Standard
+Grayson Allen,PHX Suns,15625000,16875000,18125000,19375000,0,0,50625000,allengr01,PHX,6.0,Standard
+P J Washington,DAL Mavericks,15500000,14152174,0,0,0,0,29652174,washipj01,DAL,5.0,Standard
+Max Strus,CLE Cavaliers,15212068,15936452,16660836,0,0,0,47809356,strusma01,CLE,5.0,Standard
+Isaiah Stewart,DET Pistons,15000000,15000000,15000000,15000000,0,0,45000000,stewais01,DET,4.0,Standard
+Dorian Finney Smith,LAL Lakers,14924167,15378480,0,0,0,0,14924167,finnedo01,LAL,8.0,Standard
+Mitchell Robinson,NYC Knicks,14318182,12954546,0,0,0,0,27272728,robinmi01,NYC,6.0,Standard
+Jordan Clarkson,UTA Jazz,14092577,14285714,0,0,0,0,28378291,clarkjo01,UTA,10.0,Standard
+Onyeka Okongwu,ATL Hawks,14000000,15000000,16120000,16880000,0,0,62000000,okongon01,ATL,4.0,Standard
+Naz Reid,MIN Timberwolves,13986432,15022464,0,0,0,0,13986432,reidna01,MIN,5.0,Standard
+Cade Cunningham,DET Pistons,13940809,38661750,41754690,44847630,47940570,51033510,238178959,cunnica01,DET,3.0,Standard
+Daniel Gafford,DAL Mavericks,13394160,14386320,0,0,0,0,27780480,gaffoda01,DAL,5.0,Standard
+Grant Williams,CHA Hornets,13025250,13645500,14265750,0,0,0,40936500,willigr01,CHA,5.0,Standard
+Dennis Schroder,DET Pistons,13025250,0,0,0,0,0,13025250,schrode01,DET,11.0,Standard
+Isaiah Joe,OKC Thunder,12991650,12362338,11323006,11323006,0,0,36676994,joeis01,OKC,4.0,Standard
+Herbert Jones,NOP Pelicans,12976362,13937574,14898786,0,0,0,41812722,joneshe01,NOP,3.0,Standard
+Austin Reaves,LAL Lakers,12976362,13937574,14898786,0,0,0,26913936,reaveau01,LAL,3.0,Standard
+Obi Toppin,IND Pacers,12975000,14000000,15000000,16025000,0,0,58000000,toppiob01,IND,4.0,Standard
+Cole Anthony,ORL Magic,12900000,13100000,13100000,0,0,0,26000000,anthoco01,ORL,4.0,Standard
+De Anthony Melton,BKN Nets,12822000,0,0,0,0,0,12822000,meltode01,BKN,6.0,Standard
+Kelly Olynyk,NOP Pelicans,12804878,13445122,0,0,0,0,26250000,olynyke01,NOP,11.0,Standard
+Victor Wembanyama,SAS Spurs,12768960,13376880,16868246,0,0,0,26145840,wembavi01,SAS,1.0,Rookie Scale
+Josh Green,CHA Hornets,12654321,13666667,14679012,0,0,0,41000000,greenjo02,CHA,4.0,Standard
+Richaun Holmes,WAS Wizards,12648321,13280737,0,0,0,0,12648321,holmeri01,WAS,9.0,Standard
+Steven Adams,HOU Rockets,12600000,0,0,0,0,0,12600000,adamsst01,HOU,10.0,Standard
+Bobby Portis,MIL Bucks,12578286,13445754,0,0,0,0,12578286,portibo01,MIL,9.0,Standard
+Zaccharie Risacher,ATL Hawks,12569040,13197720,13826040,17434637,0,0,25766760,risacza01,ATL,0.0,Rookie Scale
+Brandon Clarke,MEM Grizzlies,12500000,12500000,12500000,0,0,0,37500000,clarkbr01,MEM,5.0,Standard
+Marvin Bagley,MEM Grizzlies,12500000,0,0,0,0,0,12500000,baglema01,MEM,6.0,Standard
+Jalen Green,HOU Rockets,12483048,33333333,36000000,36000000,0,0,81816381,greenja05,HOU,3.0,Standard
+Robert Williams,POR Trail Blazers,12428571,13285713,0,0,0,0,25714284,williro04,POR,7.0,Standard
+Paolo Banchero,ORL Magic,12160800,15334769,0,0,0,0,27495569,banchpa01,ORL,2.0,Rookie Scale
+Coby White,CHI Bulls,12000000,12888889,0,0,0,0,24888889,whiteco01,CHI,5.0,Standard
+Wendell Carter Jr,ORL Magic,11950000,10850000,18102000,19550160,20998320,0,60452160,cartewe01,ORL,6.0,Standard
+Ivica Zubac,LAC Clippers,11743210,18102000,19550160,20998320,0,0,70393690,zubaciv01,LAC,8.0,Standard
+P J Tucker,TOR Raptors,12025777,3468960,0,0,0,0,11539000,tuckepj01,TOR,13.0,Standard
+Donte Divincenzo,MIN Timberwolves,11445000,11990000,12535000,0,0,0,35970000,divindo01,MIN,6.0,Standard
+Brandon Miller,CHA Hornets,11424600,11968800,15104626,0,0,0,23393400,millebr02,CHA,1.0,Rookie Scale
+Terance Mann,ATL Hawks,11423077,15500000,15500000,16000000,0,0,58423077,mannte01,ATL,5.0,Standard
+Alex Sarr,WAS Wizards,11245680,11808240,12370680,15611798,0,0,23053920,sarral01,WAS,0.0,Rookie Scale
+Evan Mobley,CLE Cavaliers,11227657,46394100,50105628,53817156,57528684,51033510,270106735,mobleev01,CLE,3.0,Standard
+Larry Nance Jr,ATL Hawks,11205000,0,0,0,0,0,11205000,nancela02,ATL,9.0,Standard
+Matisse Thybulle,POR Trail Blazers,11025000,11550000,0,0,0,0,11025000,thybuma01,POR,5.0,Standard
+Aaron Nesmith,IND Pacers,11000000,11000000,11000000,0,0,0,33000000,nesmiaa01,IND,4.0,Standard
+Gabe Vincent,LAL Lakers,11000000,11500000,0,0,0,0,22500000,vincega01,LAL,5.0,Standard
+Maxi Kleber,LAL Lakers,11000000,11000000,0,0,0,0,22000000,klebima01,LAL,7.0,Standard
+Moritz Wagner,ORL Magic,11000000,11000000,0,0,0,0,11000000,wagnemo01,ORL,6.0,Standard
+Chet Holmgren,OKC Thunder,10880640,13731368,0,0,0,0,24612008,holmgch01,OKC,1.0,Rookie Scale
+Chris Boucher,TOR Raptors,10810000,0,0,0,0,0,10810000,bouchch01,TOR,7.0,Standard
+Jarred Vanderbilt,LAL Lakers,10714286,11571429,12428571,13285714,0,0,34714286,vandeja01,LAL,6.0,Standard
+Aaron Wiggins,OKC Thunder,10514017,9672897,8831776,7990655,7990655,0,45000000,wiggiaa01,OKC,3.0,Standard
+Chris Paul,SAS Spurs,10460000,0,0,0,0,0,10460000,paulch01,SAS,19.0,Standard
+Scoot Henderson,POR Trail Blazers,10259160,10748040,13585523,0,0,0,21007200,hendesc01,POR,1.0,Rookie Scale
+Isaac Okoro,CLE Cavaliers,10185186,11000000,11814814,0,0,0,33000000,okorois01,CLE,4.0,Standard
+Scottie Barnes,TOR Raptors,10130980,38661750,41754690,44847630,47940570,51033510,234369130,barnesc01,TOR,3.0,Standard
+Reed Sheppard,HOU Rockets,10098960,10603560,11108880,14041625,0,0,20702520,sheppre01,HOU,0.0,Rookie Scale
+Mike Conley,MIN Timberwolves,9975962,10774038,0,0,0,0,20750000,conlemi01,MIN,17.0,Standard
+Jonas Valanciunas,SAC Kings,9900000,10395000,10000000,0,0,0,20295000,valanjo01,SAC,12.0,Standard
+Alex Caruso,OKC Thunder,9890000,18102000,19550160,20998320,22446480,0,90986960,carusal01,OKC,7.0,Standard
+Jabari Smith Jr,HOU Rockets,9770880,12350392,0,0,0,0,22121272,smithja05,HOU,2.0,Rookie Scale
+Derrick Jones Jr,LAC Clippers,9523810,10000000,10476190,0,0,0,30000000,jonesde02,LAC,8.0,Standard
+Al Horford,BOS Celtics,9500000,0,0,0,0,0,9500000,horfoal01,BOS,17.0,Standard
+Pat Connaughton,MIL Bucks,9423869,9423869,0,0,0,0,9423869,connapa01,MIL,9.0,Standard
+Royce O Neale,PHX Suns,9375000,10125000,10875000,11625000,0,0,42000000,onealro01,PHX,7.0,Standard
+T J Mcconnell,IND Pacers,9300000,10200000,11000000,11800000,11800000,0,42300000,mccontj01,IND,9.0,Standard
+Luke Kennard,MEM Grizzlies,9250000,0,0,0,0,0,9250000,kennalu01,MEM,7.0,Standard
+Amen Thompson,HOU Rockets,9249960,9690600,12258609,0,0,0,18940560,thompam01,HOU,1.0,Rookie Scale
+Jalen Suggs,ORL Magic,9188385,35000000,32400000,29600000,26800000,26700000,132988385,suggsja01,ORL,3.0,Standard
+Caleb Martin,DAL Mavericks,9186594,9594044,10001493,9371351,0,0,28782131,martica02,DAL,5.0,Standard
+Gary Payton,GSW Warriors,9130000,0,0,0,0,0,9130000,paytoga02,GSW,18.0,Standard
+Stephon Castle,SAS Spurs,9105120,9560520,10015920,12670139,0,0,18665640,castlst01,SAS,0.0,Rookie Scale
+Tre Jones,CHI Bulls,9104167,0,0,0,0,0,9104167,jonestr01,CHI,4.0,Standard
+Goga Bitadze,ORL Magic,9057971,8333333,7608696,0,0,0,25000000,bitadgo01,ORL,5.0,Standard
+Zeke Nnaji,DEN Nuggets,8888889,8177778,7466667,7466667,0,0,24533334,nnajize01,DEN,4.0,Standard
+Keegan Murray,SAC Kings,8809560,11144093,0,0,0,0,19953653,murrake02,SAC,2.0,Rookie Scale
+Buddy Hield,GSW Warriors,8780488,9219512,9658536,10097560,0,0,27658536,hieldbu01,GSW,8.0,Standard
+Kyle Anderson,MIA Heat,8780488,9219512,9658536,0,0,0,18000000,anderky01,MIA,10.0,Standard
+Naji Marshall,DAL Mavericks,8571429,9000000,9428571,0,0,0,27000000,marshna01,DAL,4.0,Standard
+Jalen Smith,CHI Bulls,8571429,9000000,9428571,0,0,0,27000000,smithja04,CHI,4.0,Standard
+Georges Niang,ATL Hawks,8500000,8200000,0,0,0,0,16700000,niangge01,ATL,8.0,Standard
+Ausar Thompson,DET Pistons,8376000,8775000,11117925,0,0,0,17151000,thompau01,DET,1.0,Rookie Scale
+Josh Giddey,CHI Bulls,8352367,0,0,0,0,0,8352367,giddejo01,CHI,3.0,Standard
+Josh Okogie,CHA Hornets,8250000,7750000,0,0,0,0,8250000,okogijo01,CHA,6.0,Standard
+Ron Holland,DET Pistons,8245320,8657280,9069600,11491183,0,0,16902600,hollaro01,DET,1.0,Rookie Scale
+Cody Martin,PHX Suns,8120000,8680000,0,0,0,0,8120000,martico01,PHX,5.0,Standard
+Jock Landale,HOU Rockets,8000000,8000000,8000000,0,0,0,16000000,landajo01,HOU,3.0,Standard
+Trey Lyles,SAC Kings,8000000,0,0,0,0,0,8000000,lylestr01,SAC,9.0,Standard
+Jeff Green,HOU Rockets,8000000,0,0,0,0,0,8000000,greenje02,HOU,16.0,Standard
+Kevon Looney,GSW Warriors,8000000,0,0,0,0,0,8000000,looneke01,GSW,9.0,Standard
+Kelly Oubre Jr,PHI 76ers,7983000,8382150,0,0,0,0,7983000,oubreke01,PHI,9.0,Standard
+Jaden Ivey,DET Pistons,7977240,10107163,0,0,0,0,18084403,iveyja01,DET,2.0,Rookie Scale
+Kj Martin,UTA Jazz,7975000,8025000,0,0,0,0,7975000,martike04,UTA,4.0,Standard
+Vasilije Micic,PHX Suns,7723000,8109150,0,0,0,0,7723000,micicva01,PHX,1.0,Rookie Scale
+Simone Fontecchio,DET Pistons,7692308,8307692,0,0,0,0,16000000,fontesi01,DET,2.0,Rookie Scale
+Jonathan Kuminga,GSW Warriors,7636307,0,0,0,0,0,7636307,kuminjo01,GSW,3.0,Standard
+Anthony Black,ORL Magic,7607760,7970280,10106316,0,0,0,15578040,blackan01,ORL,1.0,Rookie Scale
+Jae Sean Tate,HOU Rockets,7565217,0,0,0,0,0,7565217,tateja01,HOU,4.0,Standard
+Gary Harris,ORL Magic,7500000,7500000,0,0,0,0,7500000,harriga01,ORL,10.0,Standard
+Tidjane Salaun,CHA Hornets,7488720,7863240,8237880,10445633,0,0,15351960,salauti01,CHA,0.0,Rookie Scale
+Bennedict Mathurin,IND Pacers,7245720,9187573,0,0,0,0,16433293,mathube01,IND,2.0,Rookie Scale
+Max Christie,DAL Mavericks,7142857,7714286,8285714,8857143,0,0,23142857,chrisma02,DAL,2.0,Rookie Scale
+Franz Wagner,ORL Magic,7007092,38661750,41754690,44847630,47940570,51033510,231245242,wagnefr01,ORL,3.0,Standard
+Ayo Dosunmu,CHI Bulls,7000000,7518518,0,0,0,0,14518518,dosunay01,CHI,3.0,Standard
+Bilal Coulibaly,WAS Wizards,6945240,7275600,9240012,0,0,0,14220840,coulibi01,WAS,1.0,Rookie Scale
+Donovan Clingan,POR Trail Blazers,6836400,7178400,7519920,9550298,0,0,14014800,clingdo01,POR,0.0,Rookie Scale
+Payton Pritchard,BOS Celtics,6696429,7232143,7767857,8303571,0,0,30000000,pritcpa01,BOS,4.0,Standard
+Kenrich Williams,OKC Thunder,6669000,7163000,7163000,0,0,0,13832000,willike04,OKC,6.0,Standard
+Shaedon Sharpe,POR Trail Blazers,6614160,8399983,0,0,0,0,15014143,sharpsh01,POR,2.0,Rookie Scale
+Jevon Carter,CHI Bulls,6500000,6809524,0,0,0,0,6500000,carteje01,CHI,6.0,Standard
+Davion Mitchell,MIA Heat,6451077,0,0,0,0,0,6451077,mitchda01,MIA,3.0,Standard
+Saddiq Bey,WAS Wizards,6440678,6118644,6440678,0,0,0,19000000,beysa01,WAS,4.0,Standard
+Jarace Walker,IND Pacers,6362520,6665520,8478542,0,0,0,13028040,walkeja02,IND,1.0,Rookie Scale
+Rob Dillingham,MIN Timberwolves,6262920,6576120,6889320,8763216,0,0,12839040,dilliro01,MIN,0.0,Rookie Scale
+Dean Wade,CLE Cavaliers,6166667,6623456,0,0,0,0,6166667,wadede01,CLE,5.0,Standard
+John Konchar,MEM Grizzlies,6165000,6165000,6165000,0,0,0,18495000,konchjo01,MEM,5.0,Standard
+Ziaire Williams,BKN Nets,6133005,0,0,0,0,0,6133005,willizi02,BKN,3.0,Standard
+Dyson Daniels,ATL Hawks,6059520,7707709,0,0,0,0,13767229,daniedy01,ATL,2.0,Rookie Scale
+Precious Achiuwa,NYC Knicks,6000000,0,0,0,0,0,6000000,achiupr01,NYC,4.0,Standard
+Malik Beasley,DET Pistons,6000000,0,0,0,0,0,6000000,beaslma01,DET,8.0,Standard
+Chris Duarte,CHI Bulls,5893768,0,0,0,0,0,5893768,duartch01,CHI,3.0,Standard
+Taylor Hendricks,UTA Jazz,5848680,6127080,7805900,0,0,0,11975760,hendrta01,UTA,1.0,Rookie Scale
+Moses Moody,GSW Warriors,5803269,11574075,12500000,13425925,0,0,43303269,moodymo01,GSW,3.0,Standard
+Zach Edey,MEM Grizzlies,5756880,6045000,6332760,8067937,0,0,11801880,edeyza01,MEM,0.0,Rookie Scale
+Corey Kispert,WAS Wizards,5705887,13975000,13975000,13050000,13050000,0,46705887,kispeco01,WAS,3.0,Standard
+Jeremy Sochan,SAS Spurs,5570040,7096231,0,0,0,0,12666271,sochaje01,SAS,2.0,Rookie Scale
+Cason Wallace,OKC Thunder,5555880,5820240,7420806,0,0,0,11376120,wallaca01,OKC,1.0,Rookie Scale
+Cody Williams,UTA Jazz,5469120,5742480,6015600,7669890,0,0,11211600,willico04,UTA,0.0,Rookie Scale
+Alperen Sengun,HOU Rockets,5424654,33944954,35642202,37339450,39036697,39036697,151387957,sengual01,HOU,3.0,Standard
+Johnny Davis,MEM Grizzlies,5291160,0,0,0,0,0,5291160,davisjo06,MEM,2.0,Rookie Scale
+Jett Howard,ORL Magic,5278320,5529720,7337939,0,0,0,10808040,howarje01,ORL,1.0,Rookie Scale
+Davis Bertans,CHA Hornets,5250000,0,0,0,0,0,5250000,bertada01,CHA,9.0,Standard
+Haywood Highsmith,MIA Heat,5200000,5616000,0,0,0,0,10816000,highsha01,MIA,4.0,Standard
+Matas Buzelis,CHI Bulls,5195520,5455560,5715360,7584283,0,0,10651080,buzelma01,CHI,0.0,Rookie Scale
+Kris Dunn,LAC Clippers,5168000,5426400,5684800,0,0,0,10594400,dunnkr01,LAC,8.0,Standard
+Dario Saric,DEN Nuggets,5168000,5426400,0,0,0,0,5168000,saricda01,DEN,7.0,Standard
+Trey Murphy,NOP Pelicans,5159854,25000000,27000000,29000000,31000000,0,117159854,murphtr02,NOP,3.0,Standard
+Ousmane Dieng,OKC Thunder,5027040,6670882,0,0,0,0,11697922,diengou01,OKC,2.0,Rookie Scale
+Dereck Lively,DAL Mavericks,5014560,5253360,7239131,0,0,0,10267920,livelde01,DAL,1.0,Rookie Scale
+Nick Richards,PHX Suns,5000000,5000000,0,0,0,0,5000000,richani01,PHX,4.0,Standard
+Andre Drummond,PHI 76ers,5000000,5000000,0,0,0,0,5000000,drumman01,PHI,12.0,Standard
+Drew Eubanks,LAC Clippers,5000000,4750000,0,0,0,0,5000000,eubandr01,LAC,6.0,Standard
+Nikola Topic,OKC Thunder,4935960,5182920,5429760,7482210,0,0,10118880,topicni01,OKC,0.0,Rookie Scale
+Tre Mann,CHA Hornets,4908373,0,0,0,0,0,4908373,manntr01,CHA,3.0,Standard
+Jalen Williams,OKC Thunder,4775760,6580997,0,0,0,0,11356757,willija06,OKC,2.0,Rookie Scale
+Gradey Dick,TOR Raptors,4763760,4990560,7131511,0,0,0,9754320,dickgr01,TOR,1.0,Rookie Scale
+Jalen Mcdaniels,SAS Spurs,4861772,0,0,0,0,0,4741800,mcdanja01,SAS,5.0,Standard
+Miles Mcbride,NYC Knicks,4710144,4333333,3956523,0,0,0,13000000,mcbrimi01,NYC,3.0,Standard
+Devin Carter,SAC Kings,4689000,4923720,5158080,7370897,0,0,9612720,cartede02,SAC,0.0,Rookie Scale
+Nicolas Batum,LAC Clippers,4668000,4901400,0,0,0,0,4668000,batumni01,LAC,16.0,Standard
+Aaron Holiday,HOU Rockets,4668000,4901400,0,0,0,0,4668000,holidaa01,HOU,6.0,Standard
+Jalen Duren,DET Pistons,4536840,6483144,0,0,0,0,11019984,durenja01,DET,2.0,Rookie Scale
+Jordan Hawkins,NOP Pelicans,4525680,4741320,7021895,0,0,0,9267000,hawkijo01,NOP,1.0,Rookie Scale
+Jalen Johnson,ATL Hawks,4510905,30000000,30000000,30000000,30000000,30000000,154510905,johnsja05,ATL,3.0,Standard
+Bub Carrington,WAS Wizards,4454880,4677600,4900560,7257730,0,0,9132480,carrica01,WAS,0.0,Rookie Scale
+Isaiah Jackson,IND Pacers,4435381,0,0,0,0,0,4435381,jacksis01,IND,3.0,Standard
+Nickeil Alexander Walker,MIN Timberwolves,4312500,0,0,0,0,0,4312500,alexani01,MIN,5.0,Standard
+Ochai Agbaji,TOR Raptors,4310280,6383525,0,0,0,0,10693805,agbajoc01,TOR,2.0,Rookie Scale
+Kobe Bufkin,ATL Hawks,4299000,4503720,6904203,0,0,0,8802720,bufkiko01,ATL,1.0,Rookie Scale
+Quentin Grimes,PHI 76ers,4296682,0,0,0,0,0,4296682,grimequ01,PHI,3.0,Standard
+Kel El Ware,MIA Heat,4231800,4443360,4654920,7135992,0,0,8675160,wareke01,MIA,0.0,Rookie Scale
+Bones Hyland,ATL Hawks,4158439,0,0,0,0,0,4158439,hylanbo01,ATL,3.0,Standard
+Mark Williams,CHA Hornets,4094280,6276531,0,0,0,0,10370811,willima07,CHA,2.0,Rookie Scale
+Keyonte George,UTA Jazz,4084200,4278960,6563925,0,0,0,8363160,georgke01,UTA,1.0,Rookie Scale
+Cam Thomas,BKN Nets,4041249,0,0,0,0,0,4041249,thomaca02,BKN,3.0,Standard
+Jared Mccain,PHI 76ers,4020360,4221360,4422600,6784268,0,0,8241720,mccaija01,PHI,0.0,Rookie Scale
+Jaden Springer,HOU Rockets,4772772,2349578,2667944,0,0,0,4018363,sprinja01,HOU,3.0,Standard
+Dwight Powell,DAL Mavericks,4000000,4000000,0,0,0,0,4000000,poweldw01,DAL,10.0,Standard
+Day Ron Sharpe,BKN Nets,3989122,0,0,0,0,0,3989122,sharpda01,BKN,3.0,Standard
+Santi Aldama,MEM Grizzlies,3960531,0,0,0,0,0,3960531,aldamsa01,MEM,3.0,Standard
+Amir Coffey,LAC Clippers,3938271,0,0,0,0,0,3938271,coffeam01,LAC,5.0,Standard
+Jalen Hood Schifino,UTA Jazz,3879840,0,0,0,0,0,3879840,hoodsja01,UTA,1.0,Rookie Scale
+Kevin Love,MIA Heat,3850000,4150000,0,0,0,0,8000000,loveke01,MIA,16.0,Standard
+Dalton Knecht,LAL Lakers,3819120,4010160,4201080,6452860,0,0,7829280,knechda01,LAL,0.0,Rookie Scale
+Tari Eason,HOU Rockets,3695160,5675766,0,0,0,0,9370926,easonta01,HOU,2.0,Rookie Scale
+Jaime Jaquez Jr,MIA Heat,3685800,3861600,5939141,0,0,0,7547400,jaqueja01,MIA,1.0,Rookie Scale
+Tristan Da Silva,ORL Magic,3628440,3809520,3991200,6138466,0,0,7437960,dasiltr01,ORL,0.0,Rookie Scale
+Brandin Podziemski,GSW Warriors,3519960,3687960,5679459,0,0,0,7207920,podzibr01,GSW,1.0,Rookie Scale
+Dalen Terry,CHI Bulls,3510480,5399118,0,0,0,0,8909598,terryda01,CHI,2.0,Rookie Scale
+Svi Mykhailiuk,UTA Jazz,3500000,3675000,3850000,4025000,0,0,3500000,mykhasv01,UTA,6.0,Standard
+Cody Zeller,HOU Rockets,3500000,0,0,0,0,0,3500000,zelleco01,HOU,12.0,Standard
+Ja Kobe Walter,TOR Raptors,3465000,3638160,3811800,5870172,0,0,7103160,walteja01,TOR,0.0,Rookie Scale
+Cam Whitmore,HOU Rockets,3379080,3539760,5458310,0,0,0,6918840,whitmca01,HOU,1.0,Rookie Scale
+Jake Laravia,SAC Kings,3352680,5163127,0,0,0,0,3352680,laravja01,SAC,2.0,Rookie Scale
+Jaylon Tyson,CLE Cavaliers,3326160,3492480,3658560,5641500,0,0,6818640,tysonja01,CLE,0.0,Rookie Scale
+Eric Gordon,PHI 76ers,3303771,3468960,0,0,0,0,3303771,gordoer01,PHI,16.0,Standard
+Cory Joseph,ORL Magic,3303771,3468960,0,0,0,0,3303771,josepco01,ORL,13.0,Standard
+Russell Westbrook,DEN Nuggets,5631296,3468960,0,0,0,0,3303771,westbru01,DEN,16.0,Standard
+Noah Clowney,BKN Nets,3244080,3398640,5414034,0,0,0,6642720,clownno01,BKN,1.0,Rookie Scale
+Malaki Branham,SAS Spurs,3217920,4962033,0,0,0,0,8179953,branhma01,SAS,2.0,Rookie Scale
+Yves Missi,NOP Pelicans,3193200,3353040,3512760,5595827,0,0,6546240,missiyv01,NOP,0.0,Rookie Scale
+Dante Exum,DAL Mavericks,3150000,0,0,0,0,0,3150000,exumda01,DAL,7.0,Standard
+Dariq Whitehead,BKN Nets,3114240,3262560,5366912,0,0,0,6376800,whiteda01,BKN,1.0,Rookie Scale
+Nassir Little,PHX Suns,3107143,3107143,3107143,3107143,3107143,0,15535715,littlna01,PHX,6.0,Standard
+Christian Braun,DEN Nuggets,3089640,4921797,0,0,0,0,8011437,braunch01,DEN,2.0,Rookie Scale
+Johnny Juzang,UTA Jazz,3087519,2840518,2708000,2789215,0,0,3087519,juzanjo01,UTA,2.0,Rookie Scale
+Daron Holmes,DEN Nuggets,3065640,3218760,3372120,5547138,0,0,6284400,holmeda01,DEN,1.0,Rookie Scale
+Josh Richardson,UTA Jazz,3051153,0,0,0,0,0,3051153,richajo01,UTA,9.0,Standard
+Christian Wood,LAL Lakers,3036040,0,0,0,0,0,3036040,woodch01,LAL,9.0,Standard
+Kyle Filipowski,UTA Jazz,3000000,3000000,3000000,3000000,0,0,6000000,filipky01,UTA,0.0,Rookie Scale
+Julian Champagnie,SAS Spurs,3000000,3000000,3000000,0,0,0,3000000,champju02,SAS,2.0,Rookie Scale
+Ajay Mitchell,OKC Thunder,3000000,3000000,0,0,0,0,3000000,mitchaj01,OKC,0.0,Rookie Scale
+Kris Murray,POR Trail Blazers,2990040,3132000,5315004,0,0,0,6122040,murrakr01,POR,1.0,Rookie Scale
+Walker Kessler,UTA Jazz,2965920,4878938,0,0,0,0,7844858,kesslwa01,UTA,2.0,Rookie Scale
+Shake Milton,LAL Lakers,2875000,3000000,3287406,0,0,0,9162406,miltosh01,LAL,6.0,Standard
+Olivier Maxence Prosper,DAL Mavericks,2870400,3007080,5259383,0,0,0,5877480,prospol01,DAL,1.0,Rookie Scale
+David Roddy,ATL Hawks,2967212,0,0,0,0,0,2847240,roddyda01,ATL,2.0,Rookie Scale
+Torrey Craig,CHI Bulls,3625162,0,0,0,0,0,2845342,craigto01,CHI,7.0,Standard
+Kyshawn George,WAS Wizards,2825520,2966760,3108000,5435892,0,0,5792280,georgky01,WAS,0.0,Rookie Scale
+Aj Johnson,WAS Wizards,2795294,3090480,3237120,5493394,0,0,5885774,johnsaj01,WAS,0.0,Rookie Scale
+Marcus Sasser,DET Pistons,2755080,2886720,5198983,0,0,0,5641800,sassema01,DET,1.0,Rookie Scale
+Dewayne Dedmon,DET Pistons,2748674,0,0,0,0,0,2748674,dedmode01,DET,11.0,Standard
+Marjon Beauchamp,LAC Clippers,2733720,0,0,0,0,0,2733720,beaucma01,LAC,2.0,Rookie Scale
+Trendon Watford,BKN Nets,2726603,0,0,0,0,0,2726603,watfotr01,BKN,3.0,Standard
+Ben Sheppard,IND Pacers,2663880,2790720,5031669,0,0,0,5454600,sheppbe01,IND,1.0,Rookie Scale
+Keita Bates Diop,MIN Timberwolves,2654644,0,0,0,0,0,2654644,bateske01,MIN,7.0,Standard
+Blake Wesley,SAS Spurs,2624280,4726328,0,0,0,0,7350608,weslebl01,SAS,2.0,Rookie Scale
+Dillon Jones,OKC Thunder,2622360,2753280,2884440,5200646,0,0,5375640,jonesdi01,OKC,0.0,Rookie Scale
+Nick Smith Jr,CHA Hornets,2587200,2710680,4890067,0,0,0,5297880,smithni01,CHA,1.0,Rookie Scale
+Brice Sensabaugh,UTA Jazz,2571480,2693760,4862237,0,0,0,5265240,sensabr01,UTA,1.0,Rookie Scale
+Ty Jerome,CLE Cavaliers,2560975,0,0,0,0,0,2560975,jeromty01,CLE,5.0,Standard
+Julian Strawther,DEN Nuggets,2552520,2674200,4826931,0,0,0,5226720,strawju01,DEN,1.0,Rookie Scale
+Terrence Shannon Jr,MIN Timberwolves,2546640,2674080,2801640,5054159,0,0,5220720,shannte01,MIN,0.0,Rookie Scale
+Wendell Moore Jr,DET Pistons,2537040,0,0,0,0,0,2537040,moorewe01,DET,2.0,Rookie Scale
+Kobe Brown,LAC Clippers,2533920,2654880,4792059,0,0,0,5188800,brownko01,LAC,1.0,Rookie Scale
+Ryan Dunn,PHX Suns,2530800,2657760,2784240,5025553,0,0,5188560,dunnry01,PHX,0.0,Rookie Scale
+Isaiah Collier,UTA Jazz,2512680,2638200,2763960,4988948,0,0,5150880,colliis01,UTA,0.0,Rookie Scale
+Baylor Scheierman,BOS Celtics,2494320,2619000,2744040,4952993,0,0,10191353,scheiba01,BOS,0.0,Rookie Scale
+Paul Reed,DET Pistons,3913234,0,0,0,0,0,3913234,reedpa01,DET,4.0,Standard
+Nikola Jovic,MIA Heat,2464200,4445417,0,0,0,0,6909617,jovicni01,MIA,2.0,Rookie Scale
+Cam Reddish,LAL Lakers,2463946,0,0,0,0,0,2463946,reddica01,LAL,5.0,Standard
+Jaxson Hayes,LAL Lakers,2463946,0,0,0,0,0,2463946,hayesja02,LAL,5.0,Standard
+Patrick Baldwin Jr,SAS Spurs,2448840,0,0,0,0,0,2448840,baldwpa01,SAS,2.0,Rookie Scale
+Daquan Jeffries,CHA Hornets,2425404,2743776,3080918,0,0,0,2425404,jeffrda01,CHA,5.0,Standard
+Peyton Watson,DEN Nuggets,2413560,4356476,0,0,0,0,6770036,watsope01,DEN,2.0,Rookie Scale
+Kevin Porter Jr,MIL Bucks,3366937,2546675,0,0,0,0,2366937,porteke02,MIL,4.0,Standard
+Russell Westbrook,UTA Jazz,5631296,3468960,0,0,0,0,2327525,westbru01,UTA,16.0,Standard
+Charlie Brown Jr,CHA Hornets,2237692,0,0,0,0,0,2237692,brownch02,CHA,5.0,Standard
+Xavier Tillman Sr,BOS Celtics,2237691,2546675,0,0,0,0,4784366,tillmxa01,BOS,5.0,Standard
+Anthony Gill,WAS Wizards,2237691,2546675,0,0,0,0,2237691,gillan01,WAS,4.0,Standard
+James Wiseman,TOR Raptors,2237691,0,0,0,0,0,2237691,wisemja01,TOR,3.0,Standard
+Garrison Mathews,ATL Hawks,2230253,0,0,0,0,0,2230253,mathega01,ATL,5.0,Standard
+Javale Mcgee,DAL Mavericks,2208856,2208856,2208856,2208856,0,0,8835424,mcgeeja01,DAL,17.0,Standard
+Jeremiah Robinson Earl,NOP Pelicans,2196970,0,0,0,0,0,2196970,robinje02,NOP,3.0,Standard
+Lindy Waters,DET Pistons,2196970,0,0,0,0,0,2196970,waterli01,DET,3.0,Standard
+Dalano Banton,POR Trail Blazers,2196970,0,0,0,0,0,2019706,bantoda01,POR,3.0,Standard
+Sam Merrill,CLE Cavaliers,2164993,0,0,0,0,0,2164993,merrisa01,CLE,4.0,Standard
+Duane Washington Jr,CHA Hornets,2162607,0,0,0,0,0,2162607,washidu02,CHA,3.0,Standard
+Luka Garza,MIN Timberwolves,2162606,2349578,0,0,0,0,2162606,garzalu01,MIN,3.0,Standard
+Keon Johnson,BKN Nets,2162606,2349578,0,0,0,0,2162606,johnske07,BKN,3.0,Standard
+Neemias Queta,BOS Celtics,2162606,2349578,2667944,0,0,0,2162606,quetane01,BOS,3.0,Standard
+Vit Krejci,ATL Hawks,2162606,2349578,2667944,3005085,0,0,2162606,krejcvi01,ATL,3.0,Standard
+Vince Williams Jr,MEM Grizzlies,2120693,2301587,2489752,0,0,0,4422280,willivi01,MEM,2.0,Rookie Scale
+Colby Jones,WAS Wizards,2120693,2221677,2406205,0,0,0,2120693,jonesco02,WAS,1.0,Rookie Scale
+Keon Ellis,SAC Kings,2120693,2301587,0,0,0,0,2120693,elliske01,SAC,2.0,Rookie Scale
+Aj Green,MIL Bucks,2120693,2301587,0,0,0,0,2120693,greenaj01,MIL,2.0,Rookie Scale
+Sam Hauser,BOS Celtics,2092344,10044644,10848215,11651785,12455356,0,47092344,hausesa01,BOS,3.0,Standard
+Jericho Sims,MIL Bucks,2092344,0,0,0,0,0,2092344,simsje01,MIL,3.0,Standard
+Jay Huff,MEM Grizzlies,2088033,2349578,2667944,3005085,0,0,4437611,huffja01,MEM,3.0,Standard
+Tyler Kolek,NYC Knicks,2087519,2191897,2296271,2486995,0,0,6575687,kolekty01,NYC,0.0,Rookie Scale
+Scotty Pippen Jr,MEM Grizzlies,2087519,2270735,2461462,2789215,0,0,4358254,pippesc02,MEM,2.0,Rookie Scale
+Reggie Jackson,WAS Wizards,4033748,0,0,0,0,0,2087519,jacksre01,WAS,13.0,Standard
+Alex Len,WAS Wizards,2831348,0,0,0,0,0,2087519,lenal01,WAS,11.0,Standard
+Mo Bamba,UTA Jazz,2207491,0,0,0,0,0,2087519,bambamo01,UTA,6.0,Standard
+Garrett Temple,TOR Raptors,2087519,0,0,0,0,0,2087519,templga01,TOR,14.0,Standard
+Charles Bassey,SAS Spurs,2087519,2500000,0,0,0,0,2087519,bassech01,SAS,3.0,Standard
+Jordan Mclaughlin,SAS Spurs,2087519,0,0,0,0,0,2087519,mclaujo01,SAS,5.0,Standard
+Sandro Mamukelashvili,SAS Spurs,2087519,0,0,0,0,0,2087519,mamuksa01,SAS,3.0,Standard
+Doug Mcdermott,SAC Kings,2087519,0,0,0,0,0,2087519,mcderdo01,SAC,10.0,Standard
+Tyus Jones,PHX Suns,2087519,0,0,0,0,0,2087519,jonesty01,PHX,9.0,Standard
+Bol Bol,PHX Suns,2087519,0,0,0,0,0,2087519,bolbo01,PHX,5.0,Standard
+Monte Morris,PHX Suns,2087519,0,0,0,0,0,2087519,morrimo01,PHX,7.0,Standard
+Mason Plumlee,PHX Suns,2087519,0,0,0,0,0,2087519,plumlma01,PHX,11.0,Standard
+Damion Lee,PHX Suns,2087519,0,0,0,0,0,2087519,leeda03,PHX,6.0,Standard
+Guerschon Yabusele,PHI 76ers,2087519,0,0,0,0,0,2087519,yabusgu01,PHI,2.0,Rookie Scale
+Kyle Lowry,PHI 76ers,2087519,0,0,0,0,0,2087519,lowryky01,PHI,18.0,Standard
+Daniel Theis,OKC Thunder,2087519,0,0,0,0,0,2087519,theisda01,OKC,7.0,Standard
+Cameron Payne,NYC Knicks,2087519,0,0,0,0,0,2087519,payneca01,NYC,9.0,Standard
+Delon Wright,NYC Knicks,2087519,0,0,0,0,0,2087519,wrighde01,NYC,9.0,Standard
+Joe Ingles,MIN Timberwolves,2087519,0,0,0,0,0,2087519,inglejo01,MIN,10.0,Standard
+Gary Trent Jr,MIL Bucks,2087519,0,0,0,0,0,2087519,trentga02,MIL,6.0,Standard
+Taurean Prince,MIL Bucks,2087519,0,0,0,0,0,2087519,princta02,MIL,8.0,Standard
+Alec Burks,MIA Heat,2087519,0,0,0,0,0,2087519,burksal01,MIA,13.0,Standard
+Markieff Morris,LAL Lakers,2087519,0,0,0,0,0,2087519,morrima02,LAL,13.0,Standard
+Patty Mills,LAC Clippers,2087519,0,0,0,0,0,2087519,millspa02,LAC,15.0,Standard
+James Johnson,IND Pacers,2087519,0,0,0,0,0,2087519,johnsja01,IND,15.0,Standard
+Thomas Bryant,IND Pacers,2087519,0,0,0,0,0,2087519,bryanth01,IND,7.0,Standard
+Deandre Jordan,DEN Nuggets,2087519,0,0,0,0,0,2087519,jordade01,DEN,16.0,Standard
+Vlatko Cancar,DEN Nuggets,2087519,0,0,0,0,0,2087519,cancavl01,DEN,4.0,Standard
+Spencer Dinwiddie,DAL Mavericks,2087519,0,0,0,0,0,2087519,dinwisp01,DAL,10.0,Standard
+Tristan Thompson,CLE Cavaliers,2087519,0,0,0,0,0,2087519,thomptr01,CLE,13.0,Standard
+Seth Curry,CHA Hornets,2087519,0,0,0,0,0,2087519,curryse01,CHA,10.0,Standard
+Taj Gibson,CHA Hornets,2087519,0,0,0,0,0,2087519,gibsota01,CHA,15.0,Standard
+Talen Horton Tucker,CHI Bulls,2087519,0,0,0,0,0,2087519,hortota01,CHI,5.0,Standard
+Luke Kornet,BOS Celtics,2087519,0,0,0,0,0,2087519,kornelu01,BOS,7.0,Standard
+Duop Reath,POR Trail Blazers,2048780,2221677,0,0,0,0,2048780,reathdu01,POR,1.0,Rookie Scale
+Andrew Nembhard,IND Pacers,2019699,18102000,19550160,20998320,0,0,60670179,nembhan01,IND,2.0,Rookie Scale
+Jaden Hardy,DAL Mavericks,2019699,6000000,6000000,6000000,0,0,14019699,hardyja02,DAL,2.0,Rookie Scale
+Jabari Walker,POR Trail Blazers,2019699,0,0,0,0,0,2019699,walkeja01,POR,2.0,Rookie Scale
+Caleb Houstan,ORL Magic,2019699,2187699,0,0,0,0,2019699,houstca01,ORL,2.0,Rookie Scale
+Jaylin Williams,OKC Thunder,2019699,2187451,0,0,0,0,2019699,willija07,OKC,2.0,Rookie Scale
+Josh Minott,MIN Timberwolves,2019699,2187451,0,0,0,0,2019699,minotjo01,MIN,2.0,Rookie Scale
+Kennedy Chandler,MEM Grizzlies,2019699,0,0,0,0,0,2019699,chandke01,MEM,2.0,Rookie Scale
+Jose Alvarado,NOP Pelicans,1988598,4500000,4500000,0,0,0,6488598,alvarjo01,NOP,3.0,Standard
+Reggie Jackson,CHA Hornets,4033748,0,0,0,0,0,1946229,jacksre01,CHA,13.0,Standard
+Ricky Council Iv,PHI 76ers,1891857,2221677,2406205,0,0,0,4113534,councri01,PHI,1.0,Rookie Scale
+Gg Jackson,MEM Grizzlies,1891857,2221677,2406205,0,0,0,4113534,jacksgg01,MEM,1.0,Rookie Scale
+Jalen Pickett,DEN Nuggets,1891857,2221677,2406205,0,0,0,4113534,pickeja02,DEN,1.0,Rookie Scale
+Hunter Tyson,DEN Nuggets,1891857,2221677,2406205,0,0,0,4113534,tysonhu01,DEN,1.0,Rookie Scale
+Julian Phillips,CHI Bulls,1891857,2221677,2406205,0,0,0,4113534,phillju01,CHI,1.0,Rookie Scale
+Jordan Walsh,BOS Celtics,1891857,2221677,2406205,0,0,0,2091857,walshjo01,BOS,1.0,Rookie Scale
+Sidy Cissoko,WAS Wizards,1891857,0,0,0,0,0,1891857,cissosi01,WAS,1.0,Rookie Scale
+Toumani Camara,POR Trail Blazers,1891857,2221677,2406205,0,0,0,1891857,camarto01,POR,1.0,Rookie Scale
+Rayan Rupert,POR Trail Blazers,1891857,2221677,0,0,0,0,1891857,ruperra01,POR,1.0,Rookie Scale
+Leonard Miller,MIN Timberwolves,1891857,2221677,2406205,0,0,0,1891857,millele01,MIN,1.0,Rookie Scale
+Chris Livingston,MIL Bucks,1891857,2221677,2406205,0,0,0,1891857,livinch01,MIL,1.0,Rookie Scale
+Andre Jackson Jr,MIL Bucks,1891857,2221677,2406205,0,0,0,1891857,jacksan01,MIL,1.0,Rookie Scale
+Trayce Jackson Davis,GSW Warriors,1891857,2221677,2406205,0,0,0,1891857,jackstr02,GSW,1.0,Rookie Scale
+Gui Santos,GSW Warriors,1891857,2221677,0,0,0,0,1891857,santogu01,GSW,1.0,Rookie Scale
+Craig Porter Jr,CLE Cavaliers,1891857,2221677,2406205,0,0,0,1891857,portecr01,CLE,1.0,Rookie Scale
+Maxwell Lewis,BKN Nets,1891857,2221677,2406205,0,0,0,1891857,lewisma05,BKN,1.0,Rookie Scale
+Jalen Wilson,BKN Nets,1891857,2221677,0,0,0,0,1891857,wilsoja03,BKN,1.0,Rookie Scale
+Mouhamed Gueye,ATL Hawks,1891857,2221677,2406205,0,0,0,1891857,gueyemo02,ATL,1.0,Rookie Scale
+Jonathan Mogbo,TOR Raptors,1862265,1955377,2296271,0,0,0,3817642,mogbojo01,TOR,0.0,Rookie Scale
+Jamal Shead,TOR Raptors,1862265,1955377,2296271,0,0,0,3817642,sheadja01,TOR,0.0,Rookie Scale
+Johnny Furphy,IND Pacers,1850842,1955377,2296271,2486995,0,0,6102490,furphjo01,IND,0.0,Rookie Scale
+Pacome Dadiet,NYC Knicks,1808080,2847600,2983680,5373608,0,0,4655680,dadiepa01,NYC,0.0,Rookie Scale
+Justin Champagnie,WAS Wizards,1800000,2349578,2667944,3005085,0,0,6817522,champju01,WAS,3.0,Standard
+Javonte Green,NOP Pelicans,2328350,0,0,0,0,0,1728488,greenja02,NOP,5.0,Standard
+Jae Crowder,SAC Kings,1655619,0,0,0,0,0,1655619,crowdja01,SAC,12.0,Standard
+Karlo Matkovic,NOP Pelicans,1407153,1955377,2296271,0,0,0,3362530,matkoka01,NOP,0.0,Rookie Scale
+Landry Shamet,NYC Knicks,1343690,0,0,0,0,0,1343690,shamela01,NYC,6.0,Standard
+Eric Bledsoe,POR Trail Blazers,1300000,0,0,0,0,0,1300000,bledser01,POR,13.0,Standard
+Bobi Klintman,DET Pistons,1257153,1955377,2296271,2486995,0,0,3212530,klintbo01,DET,0.0,Rookie Scale
+Tyler Smith,MIL Bucks,1157153,1955377,2296271,2486995,0,0,5408801,smithty02,MIL,0.0,Rookie Scale
+Oso Ighodaro,PHX Suns,1157153,1955377,2296271,2486995,0,0,3112530,ighodos01,PHX,0.0,Rookie Scale
+Jaylen Wells,MEM Grizzlies,1157153,1955377,2296271,2486995,0,0,3112530,wellsja01,MEM,0.0,Rookie Scale
+Bronny James,LAL Lakers,1157153,1955377,2296271,2486995,0,0,3112530,jamesbr02,LAL,0.0,Rookie Scale
+Cam Christie,LAC Clippers,1157153,1955377,2296271,2486995,0,0,3112530,chrisca02,LAC,0.0,Rookie Scale
+Adem Bona,PHI 76ers,1157153,1955377,2296271,2486995,0,0,1157153,bonaad01,PHI,0.0,Rookie Scale
+Antonio Reeves,NOP Pelicans,1157153,1955377,2296271,0,0,0,1157153,reevean01,NOP,0.0,Rookie Scale
+Pelle Larsson,MIA Heat,1157153,1955377,2296271,0,0,0,1157153,larsspe01,MIA,0.0,Rookie Scale
+Bruno Fernando,TOR Raptors,1115128,0,0,0,0,0,1115128,fernabr01,TOR,5.0,Standard
+Ariel Hukporti,NYC Knicks,1064049,1955377,0,0,0,0,1064049,hukpoar01,NYC,0.0,Rookie Scale
+Pj Dozier,MIN Timberwolves,1051255,0,0,0,0,0,1051255,doziepj01,MIN,6.0,Standard
+Jordan Miller,LAC Clippers,1050000,2191897,2378864,2573347,0,0,1050000,millejo02,LAC,1.0,Rookie Scale
+Jamison Battle,TOR Raptors,1000000,1955377,2296271,0,0,0,1000000,battlja01,TOR,0.0,Rookie Scale
+Kevin Porter Jr,OKC Thunder,3366937,2546675,0,0,0,0,1000000,porteke02,OKC,4.0,Standard
+Joshua Primo,LAC Clippers,1000000,0,0,0,0,0,1000000,primojo01,LAC,4.0,Standard
+Orlando Robinson,SAC Kings,1691610,0,0,0,0,0,959779,robinor01,SAC,2.0,Rookie Scale
+Moussa Diabate,CHA Hornets,957763,2270735,2461462,0,0,0,957763,diabamo01,CHA,2.0,Rookie Scale
+Lonnie Walker Iv,PHI 76ers,780932,2940876,0,0,0,0,780932,walkelo01,PHI,6.0,Standard
+Torrey Craig,BOS Celtics,3625162,0,0,0,0,0,779820,craigto01,BOS,7.0,Standard
+Ben Simmons,LAC Clippers,40011909,0,0,0,0,0,755826,simmobe01,LAC,6.0,Standard
+Jared Butler,PHI 76ers,745726,2349578,0,0,0,0,745726,butleja02,PHI,3.0,Standard
+Alex Len,LAL Lakers,2831348,0,0,0,0,0,743829,lenal01,LAL,11.0,Standard
+Markelle Fultz,SAC Kings,731831,0,0,0,0,0,731831,fultzma01,SAC,7.0,Standard
+Keshad Johnson,MIA Heat,724883,1955377,0,0,0,0,724883,johnske10,MIA,0.0,Rookie Scale
+E J Liddell,PHX Suns,706898,706898,706898,0,0,0,2120694,liddeej01,PHX,1.0,Rookie Scale
+Nik Stauskas,IND Pacers,702310,0,0,0,0,0,702310,stausni01,IND,7.0,Standard
+Tyrese Martin,BKN Nets,635853,2191897,0,0,0,0,635853,martity01,BKN,1.0,Rookie Scale
+Jaden Springer,UTA Jazz,4772772,2349578,2667944,0,0,0,754409,sprinja01,UTA,3.0,Standard
+Matt Ryan,NYC Knicks,621439,0,0,0,0,0,621439,ryanma01,NYC,3.0,Standard
+Ryan Rollins,WAS Wizards,1091887,0,0,0,0,0,600000,rolliry01,WAS,2.0,Rookie Scale
+Javonte Green,CLE Cavaliers,2328350,0,0,0,0,0,599862,greenja02,CLE,5.0,Standard
+Brandon Boston Jr,NOP Pelicans,596581,2349578,0,0,0,0,596581,bostobr01,NOP,4.0,Rookie Scale
+Juwan Morgan,IND Pacers,576229,0,0,0,0,0,576229,morgaju01,IND,4.0,Standard
+Malik Fitts,IND Pacers,555216,0,0,0,0,0,555216,fittsma01,IND,3.0,Standard
+Jeenathan Williams,HOU Rockets,515881,2270735,2461462,2789215,0,0,515881,willije02,HOU,3.0,Rookie Scale
+Bismack Biyombo,SAS Spurs,647851,0,0,0,0,0,791818,biyombi01,SAS,13.0,Standard
+Jaylen Clark,MIN Timberwolves,492323,2191897,0,0,0,0,2684220,clarkja02,MIN,0.0,Rookie Scale
+Dominick Barlow,ATL Hawks,491887,2270735,0,0,0,0,2762622,barlodo01,ATL,2.0,Rookie Scale
+Orlando Robinson,TOR Raptors,1691610,0,0,0,0,0,731831,robinor01,TOR,2.0,Rookie Scale
+Ryan Rollins,MIL Bucks,1091887,0,0,0,0,0,491887,rolliry01,MIL,2.0,Rookie Scale
+Mamadi Diakite,MEM Grizzlies,464050,464050,464050,0,0,0,1392150,diakima01,MEM,5.0,Standard
+Quinten Post,GSW Warriors,438920,1955377,0,0,0,0,438920,postqu01,GSW,0.0,Rookie Scale
+Pat Spencer,GSW Warriors,438810,0,0,0,0,0,438810,spencpa01,GSW,1.0,Rookie Scale
+Justin Edwards,PHI 76ers,425619,1955377,0,0,0,0,425619,edwarju01,PHI,0.0,Rookie Scale
+Ricky Rubio,CLE Cavaliers,424672,424672,424672,0,0,0,1274016,rubiori01,CLE,13.0,Standard
+Lamar Stevens,MEM Grizzlies,623856,0,0,0,0,0,623856,stevela01,MEM,4.0,Standard
+Branden Carlson,OKC Thunder,496519,0,0,0,0,0,496519,carlsbr01,OKC,0.0,Rookie Scale
+Tony Bradley,IND Pacers,600545,2940876,0,0,0,0,600545,bradlto01,IND,6.0,Standard
+Moses Brown,IND Pacers,426632,0,0,0,0,0,306660,brownmo01,IND,5.0,Standard
+Jaylen Nowell,NOP Pelicans,446743,0,0,0,0,0,278782,nowelja01,NOP,5.0,Standard
+Elfrid Payton,NOP Pelicans,789048,3153598,0,0,0,0,549104,paytoel01,NOP,8.0,Standard
+Didi Louzada,POR Trail Blazers,268032,268032,268032,268032,268032,0,1340160,louzama01,POR,3.0,Standard
+Kevin Knox,GSW Warriors,503883,0,0,0,0,0,503883,knoxke01,GSW,7.0,Standard
+Aj Griffin,HOU Rockets,250000,0,0,0,0,0,250000,griffaj01,HOU,3.0,Standard
+P J Tucker,NYC Knicks,12025777,3468960,0,0,0,0,486777,tuckepj01,NYC,13.0,Standard
+Jordan Goodwin,LAL Lakers,223718,2349578,0,0,0,0,223718,goodwjo01,LAL,3.0,Standard
+Jaylen Nowell,WAS Wizards,446743,0,0,0,0,0,167961,nowelja01,WAS,5.0,Standard
+Isaac Jones,SAC Kings,152957,1955377,0,0,0,0,152957,jonesis01,SAC,0.0,Rookie Scale
+Malevy Leons,OKC Thunder,126356,0,0,0,0,0,126356,leonsma01,OKC,0.0,Rookie Scale
+Chuma Okeke,PHI 76ers,355687,2546675,0,0,0,0,239944,okekech01,PHI,4.0,Standard
+Elfrid Payton,CHA Hornets,789048,3153598,0,0,0,0,239944,paytoel01,CHA,8.0,Standard
+Cole Swider,TOR Raptors,227947,0,0,0,0,0,227947,swideco01,TOR,2.0,Rookie Scale
+Jalen Mcdaniels,WAS Wizards,4861772,0,0,0,0,0,119972,mcdanja01,WAS,5.0,Standard
+Jared Rhoden,TOR Raptors,119972,0,0,0,0,0,119972,rhodeja01,TOR,2.0,Rookie Scale
+Eugene Omoruyi,TOR Raptors,119972,0,0,0,0,0,119972,omorueu01,TOR,4.0,Standard
+Terry Taylor,SAC Kings,119972,0,0,0,0,0,119972,taylote01,SAC,3.0,Standard
+Skal Labissiere,SAC Kings,119972,0,0,0,0,0,119972,labissk01,SAC,4.0,Standard
+Daishen Nix,SAC Kings,119972,0,0,0,0,0,119972,nixda01,SAC,3.0,Standard
+Oshae Brissett,PHI 76ers,119972,0,0,0,0,0,119972,brissos01,PHI,5.0,Standard
+David Roddy,PHI 76ers,2967212,0,0,0,0,0,119972,roddyda01,PHI,2.0,Rookie Scale
+Mo Bamba,NOP Pelicans,2207491,0,0,0,0,0,119972,bambamo01,NOP,6.0,Standard
+Jahlil Okafor,IND Pacers,119972,0,0,0,0,0,119972,okafoja01,IND,6.0,Standard
+Moses Brown,DAL Mavericks,426632,0,0,0,0,0,119972,brownmo01,DAL,5.0,Standard
+Malachi Flynn,CHA Hornets,119972,0,0,0,0,0,119972,flynnma01,CHA,4.0,Standard
+Killian Hayes,BKN Nets,119972,0,0,0,0,0,119972,hayeski01,BKN,4.0,Standard
+Kevon Harris,ATL Hawks,119972,0,0,0,0,0,119972,harrike01,ATL,3.0,Standard
+Chuma Okeke,CLE Cavaliers,355687,2546675,0,0,0,0,115743,okekech01,CLE,4.0,Standard
+Drew Timme,BKN Nets,113055,1955377,0,0,0,0,113055,timmedr01,BKN,0.0,Rookie Scale
+Colin Castleton,TOR Raptors,421081,2191897,0,0,0,0,2505951,castlco01,TOR,1.0,Rookie Scale
+Colin Castleton,PHI 76ers,421081,2191897,0,0,0,0,107027,castlco01,PHI,1.0,Rookie Scale
+Marcus Garrett,CHA Hornets,107027,0,0,0,0,0,107027,garrema01,CHA,1.0,Rookie Scale
+Javon Freeman Liberty,TOR Raptors,100000,0,0,0,0,0,100000,freemja01,TOR,2.0,Rookie Scale
+Aj Lawson,TOR Raptors,100000,2270735,0,0,0,0,100000,lawsoaj01,TOR,2.0,Rookie Scale
+Marcus Bagley,PHI 76ers,126356,0,0,0,0,0,126356,baglema02,PHI,0.0,Rookie Scale
+Kylor Kelley,NOP Pelicans,73153,0,0,0,0,0,73153,kelleky01,NOP,0.0,Rookie Scale
+Jaylen Sims,CHA Hornets,73153,0,0,0,0,0,73153,simsja01,CHA,1.0,Rookie Scale
+Erik Stevenson,WAS Wizards,66503,0,0,0,0,0,66503,steveer01,WAS,1.0,Rookie Scale
+Phillip Wheeler,PHI 76ers,66503,0,0,0,0,0,66503,wheelph02,PHI,0.0,Rookie Scale
+Yuri Collins,GSW Warriors,66503,0,0,0,0,0,66503,colliyu01,GSW,0.0,Rookie Scale
+Nae Qwan Tomlin,CLE Cavaliers,66503,0,0,0,0,0,66503,tomlina01,CLE,0.0,Rookie Scale
+Terence Davis,SAC Kings,64301,2546675,0,0,0,0,64301,daviste02,SAC,4.0,Standard
+Brandon Williams,DAL Mavericks,47989,2270735,0,0,0,0,47989,willibr03,DAL,2.0,Rookie Scale
+Javante Mccoy,DET Pistons,47265,0,0,0,0,0,47265,mccoyja01,DET,1.0,Rookie Scale
+Isaiah Mobley,PHI 76ers,11997,0,0,0,0,0,11997,mobleis01,PHI,2.0,Rookie Scale
+Braxton Key,GSW Warriors,11997,0,0,0,0,0,11997,keybr01,GSW,3.0,Standard
+Jd Davison,BOS Celtics,11997,2270735,0,0,0,0,11997,davisjd01,BOS,2.0,Rookie Scale
